@@ -1,4 +1,8 @@
-<h1>Summary:<br /> pregnancy, crohns disease, perianal</h1>
+# Summary
+
+Here's a blurb describing the summary.
+
+<!-- <h1>Summary:<br /> pregnancy, crohns disease, perianal</h1>
 
 **Overall**
 
@@ -28,4 +32,4 @@ Some copy that describes what it means for the disease to be active and
 how that is understood and discovered. A [term, or something to be defined](definedTerm)
 would be clickable and prompt the dialogue box on the right.
 
-<h5>Information last updated November 1, 2018.</h5>
+<h5>Information last updated November 1, 2018.</h5> -->
