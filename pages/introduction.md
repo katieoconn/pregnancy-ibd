@@ -4,13 +4,15 @@ If you are a woman living with inflammatory bowel disease (IBD), you are in a un
 You need to know that, in general, the likelihood of you becoming pregnant and having a healthy pregnancy and baby are similar to other women not living with the disease.<sup>1</sup>   
 Women living with IBD and their healthcare teams need to work together from a common base of understanding. 
 
-![alt text](https://via.placeholder.com/980x1776 "Logo Title Text 1")
+![alt text](https://via.placeholder.com/850x425 "Diagram1")
 
 The Pregnancy and IBD Decision Aid (myPIDA) has been created to help women like you, who are living with inflammatory bowel disease (IBD) and thinking about having a child, make informed decisions about: 
 
 • Timing of becoming pregnant
 
 • Your IBD management during pregnancy 
+
+![alt text](https://via.placeholder.com/250x425 "Diagram1")
 
 
 <h5>Information last updated January 12, 2019.</h5>
