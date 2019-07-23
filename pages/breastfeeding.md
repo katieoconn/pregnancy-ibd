@@ -1,4 +1,4 @@
-<h1>BreastFeeding</h1>
+<h1>Breastfeeding</h1>
 
 Breastfeeding a baby will help support the health of your child today and in the future.
 There is also evidence that babies who are fed only￼ breastmilk for the first six months of
