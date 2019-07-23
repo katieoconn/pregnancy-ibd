@@ -5,8 +5,6 @@ You need to know that, in general, the likelihood of you becoming pregnant and h
 Women living with IBD and their healthcare teams need to work together from a common base of understanding. 
 
 ![Diagram1](https://via.placeholder.com/850x425 "Diagram1")
-*Fig. 1: This graph property of Google<sup>1</sup>*
-
 
 The Pregnancy and IBD Decision Aid (myPIDA) has been created to help women like you, who are living with inflammatory bowel disease (IBD) and thinking about having a child, make informed decisions about: 
 
