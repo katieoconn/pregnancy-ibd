@@ -1,5 +1,7 @@
 <h1>Nutrition</h1>
 
+![Diagram1](https://via.placeholder.com/2000x1000 "Diagram1")
+
 Good nutrition is important for everyone. This is especially true for women who are pregnant.
 Nutritional recommendations include: 
 - eating a variety of food from the four food groups every day (fruit and vegetables; dairy
