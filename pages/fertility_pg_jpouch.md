@@ -1,3 +1,3 @@
-**Surgery: UC -J pouch (IPAA)**
+**J pouch (IPAA)**
 
-Pregnancy note: This surgery generally does not affect one's ability to carry pregnancy to term.
+This surgery generally does not affect one's ability to carry pregnancy to term.
