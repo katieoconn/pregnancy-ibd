@@ -1,1 +1,1 @@
-
+Inflammation at or near the anus, including tags, fissures, fistulae, abscesses, or stenosis. When abscesses form around the anus due to Crohn’s disease, they need to be incised (cut open) and drained.  For fistulas, if they are quite active or repeatedly form abscesses, surgeons may insert a seton (plastic band) to keep the tract open to prevent the formation of abscesses.   
