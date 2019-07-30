@@ -1,3 +1,3 @@
 <h1>Crohns Disease</h1>
 
-Do you have perianal disease?
+Do you have [Perianal disease?](perianal)
