@@ -10,4 +10,4 @@ The Pregnancy and IBD Decision Aid (myPIDA) has been created to help women like 
 * Timing of becoming pregnant
 * Your IBD management during pregnancy 
 
-<h5>Information last updated January 12, 2019.</h5>
+<h5>Information last updated January 22, 2019.</h5>
