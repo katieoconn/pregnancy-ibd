@@ -7,7 +7,7 @@ Women living with IBD and their healthcare teams need to work together from a co
 
 The Pregnancy and IBD Decision Aid (myPIDA) has been created to help women like you, who are living with inflammatory bowel disease (IBD) and thinking about having a child, make informed decisions about: 
 
-*Timing of becoming pregnant
-*Your IBD management during pregnancy 
+* Timing of becoming pregnant
+* Your IBD management during pregnancy 
 
 <h5>Information last updated January 12, 2019.</h5>
