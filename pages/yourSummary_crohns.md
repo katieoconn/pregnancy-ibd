@@ -1,3 +1,3 @@
 ## Disease
 
-You have answered that you have Crohn's disease
+You have informed us that you have Crohn's disease.
