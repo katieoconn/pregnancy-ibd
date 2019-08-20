@@ -1,3 +1,3 @@
 ## Fertility
 
-You answered that you are preconception.
+You informed us that you are preconception.
