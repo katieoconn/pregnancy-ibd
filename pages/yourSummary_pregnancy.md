@@ -1,3 +1,3 @@
 ## Pregnancy
 
-You answered that you are currently pregnant.
+You informed us that you are currently pregnant.
