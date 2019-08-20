@@ -1,3 +1,3 @@
 ## Disease
 
-You answered that you have Ulcerative Colitis (UC)
+You informed us that you have Ulcerative Colitis (UC).
