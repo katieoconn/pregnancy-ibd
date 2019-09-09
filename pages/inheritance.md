@@ -2,5 +2,6 @@
 
 Whether or not your child will develop IBD depends on many factors of which heredity is
 just one. Your child has a good chance of not having IBD.
+![enter image description here](https://github.com/tactica/pregnancy-ibd/blob/master/images/inheritance.png?raw=true)
 
-<h5>Information last updated October 26, 2018.</h5>
+<h5>Information last updated September 9, 2019.</h5>
