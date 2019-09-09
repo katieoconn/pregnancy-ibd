@@ -14,7 +14,6 @@ Smoking Cessation Resources: Pregnets.org and Albertaquits.ca
 Mother to Baby Fact Sheet on e-cigarettes: 
 https://mothertobaby.org/fact-sheets/e-cigarettes/ 
 
-Marijuana:   
-https://www.acog.org/Clinical-Guidance-and-Publications/Committee-Opinions/Committee-on-Obstetric-Practice/Marijuana-Use-During-Pregnancy-and-Lactation
+Marijuana: https://www.acog.org/Clinical-Guidance-and-Publications/Committee-Opinions/Committee-on-Obstetric-Practice/Marijuana-Use-During-Pregnancy-and-Lactation
 
 <h5>Information last updated September 9, 2019.</h5>
