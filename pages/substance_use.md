@@ -7,7 +7,7 @@ Mother to Baby Fact Sheet in Alcohol in pregnancy: https://mothertobaby.org/fact
 
 Mother to Baby Fact Sheet on Cigarette smoking: https://mothertobaby.org/fact-sheets/cigarette-smoking-pregnancy/ 
 
-Smoking Cessation Resources: Pregnets.org and Albertaquits.ca 
+Smoking Cessation Resources: Pregnets.org and Albertaquits.ca
 
 Mother to Baby Fact Sheet on e-cigarettes: https://mothertobaby.org/fact-sheets/e-cigarettes/ 
 
