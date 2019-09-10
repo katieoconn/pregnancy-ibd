@@ -1,3 +1,4 @@
+
 <h1>Active Disease</h1>
 
 **Active disease (or Flare)**: when an individual is experiencing symptoms of IBD because tissues are inflamed and irritated
@@ -10,15 +11,19 @@ Compared with the general population, women living with IBD may have a slightly 
 
 Pre-term births (before 37 weeks gestation) estimated to occur in:
 
-* 5 of every 100 births (in women with **inactive IBD**) vs. 15 of every 100 births (in women with **active IBD**)
+* 5 of every 100 births (in women with **inactive IBD**) vs. 15 of every 100 births (in women with **active IBD**)<sup>1</sup>
+
+Pre-term birth can be associated with difficulties with temperature regulation, feeding and breathing. Pre-term birth can also be associated with complications (including of the heart, eyes and bowel and infections), prolonged hospital stay and learning and development disabilities. <sup>1</sup>
 
 Low birth weight (2500g or 5.5 lbs) estimated to occur in:
 
-* 3 of every 100 births (in women with **inactive IBD**) vs. 10 of every 100 births (in women with **active IBD**)
+* 3 of every 100 births (in women with **inactive IBD**) vs. 10 of every 100 births (in women with **active IBD**)<sup>1</sup>
+
+Low birth weight can be associated with cognitive and developmental disorders.<sup>1</sup>
 
 Loss of pregnancy (miscarriage or spontaneous abortion) estimated to occur in:
 
-* 10 of every 100 births (in women with **inactive IBD**) vs. 30 of every 100 births (in women with **active IBD**)
+* 10 of every 100 births (in women with **inactive IBD**) vs. 30 of every 100 births (in women with **active IBD**)<sup>2</sup>
 
 Congenital malformations (conditions or defects that affect the baby from birth and usually throughout their life)
 * There is not enough information available to determine whether or not  the risk of congenital malformations is higher or lower in women who have IBD 
@@ -36,4 +41,3 @@ Be sure to advise the doctor or technician if you are trying to conceive or may 
 
 
 <h5>Information last updated September 9, 2019.</h5>
-
