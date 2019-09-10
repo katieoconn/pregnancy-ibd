@@ -2,7 +2,7 @@
 
 **Active disease (or Flare)**: when an individual is experiencing symptoms of IBD because tissues are inflamed and irritated
 
-**Remission (inactive)**: when symptoms are under control and there is minimal tissue inflammation
+**Remission (inactive disease)**: when symptoms are under control and there is minimal tissue inflammation
 
 **Will my IBD affect pregnancy or the baby?**
 
