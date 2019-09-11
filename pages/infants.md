@@ -4,6 +4,10 @@ IBD medications generally are not known to adversely affect the baby in the futu
 
 The medications a mother takes during pregnancy may affect whether or not the baby can receive certain vaccinations. While we recommend that decisions regarding medication choices in pregnancy are made independently to the effects on infant vaccination safety, knowledge regarding safe vaccination practices is important.
 
+More information regarding infants and vaccinations can be found at:
+[https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
+
+**Biologics:**
 Unlike other medications, biologics are antibodies. Just like the antibodies a mother transfers naturally to her baby during pregnancy, biologics do cross the placenta and enter the baby’s blood stream.
 
 The biologic can start actively crossing the placenta from Week 20 in pregnancy with the majority of the transfer occurring in the third trimester. As a result, your baby may be born with the biologic detectable in their blood.
