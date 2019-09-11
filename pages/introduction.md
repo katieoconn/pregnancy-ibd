@@ -1,8 +1,8 @@
 <h1>Introduction to Pregnancy & IBD Decision Aid</h1>
 
 If you are a woman living with inflammatory bowel disease (IBD), you are in a unique position when it comes to pregnancy. 
-You need to know that, in general, the likelihood of you becoming pregnant and having a healthy pregnancy and baby are similar to other women not living with the disease.<sup>1</sup>   
-Women living with IBD and their healthcare teams need to work together from a common base of understanding. <sup>2</sup>
+You need to know that, in general, the likelihood of you becoming pregnant and having a healthy pregnancy and baby are similar to other women not living with the disease. 
+Women living with IBD and their healthcare teams need to work together from a common base of understanding.
 
 ![enter image description here](https://github.com/tactica/pregnancy-ibd/blob/master/images/preg.jpg?raw=true)
 
