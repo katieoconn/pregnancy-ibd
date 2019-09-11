@@ -1,11 +1,10 @@
-
 <h1>Active Disease</h1>
 
 **Active disease (or Flare)**: when an individual is experiencing symptoms of IBD because tissues are inflamed and irritated
 
 **Remission (Inactive disease)**: when symptoms are under control and there is minimal tissue inflammation
 
-**Will my IBD affect pregnancy or the baby?**
+## **Will my IBD Affect Pregnancy or the Baby?**
 
 Compared with the general population, women living with IBD may have a slightly increased risk of the complications listed below. These risks are increased if IBD is active during pregnancy
 
@@ -28,7 +27,7 @@ Loss of pregnancy (miscarriage or spontaneous abortion) estimated to occur in:
 Congenital malformations (conditions or defects that affect the baby from birth and usually throughout their life)
 * There is not enough information available to determine whether or not  the risk of congenital malformations is higher or lower in women who have IBD 
 
-**Is my IBD active or not?**
+## **Is my IBD Active or Not?**
 
 There are several tests that can be done to determine if your disease is active (flaring) or inactive (in remission) before you get pregnant. 
 Your doctor may recommend you have one of the following tests to determine if you are in truly in remission before you get pregnant: 
