@@ -8,6 +8,7 @@ More information regarding infants and vaccinations can be found at:
 [https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
 **Biologics:**
+
 Unlike other medications, biologics are antibodies. Just like the antibodies a mother transfers naturally to her baby during pregnancy, biologics do cross the placenta and enter the baby’s blood stream.
 
 The biologic can start actively crossing the placenta from Week 20 in pregnancy with the majority of the transfer occurring in the third trimester. As a result, your baby may be born with the biologic detectable in their blood.
