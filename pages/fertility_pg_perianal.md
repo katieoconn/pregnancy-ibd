@@ -1,3 +1,3 @@
 **Perianal**
 
-Pregnancy note: Having perianal disease or surgeries to treat perianal disease does NOT affect pregnancy outcomes.
+Having perianal abscesses and fistulae typically does NOT impair fertility. Having had surgical incision and drainage of perianal abscesses and fistulae does NOT impair fertility.
