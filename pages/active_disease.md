@@ -33,10 +33,12 @@ There are several tests that can be done to determine if your disease is active 
 Your doctor may recommend you have one of the following tests to determine if you are in truly in remission before you get pregnant: 
 * Blood tests 
 * F-Cal (fecal calprotectin) stool test can indicate if your disease is active or becoming active. It is a useful test to have checked before pregnancy and monitored during pregnancy. 
-* Flexible sigmoidoscopy or colonoscopy
 * Ultrasound of intestines 
+
+* Flexible sigmoidoscopy or colonoscopy
 * CT or MRI
-Be sure to advise the doctor or technician if you are trying to conceive or may be pregnant, as these tests may need to be delayed or modified
+
+Be sure to advise the doctor or technician if you are trying to conceive or may be pregnant, as endoscopic or imaging tests may need to be delayed or modified
 
 
 <h5>Information last updated September 9, 2019.</h5>
