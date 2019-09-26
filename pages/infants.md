@@ -21,7 +21,9 @@ Also, more information regarding infants and vaccinations can be found at:
 
 **Infections:**
 
-There may be an increased risk of infection in the first year of an infant’s life when anti-TNF biologics are used in combination with other immunosuppressants (eg azathioprine). Safety data is otherwise reassuring for anti-TNF use in pregnancy. However, it is important to note that there is only limited experience with the newer biologics such as ustekinumab and vedolizumab. Further information regarding infection risk for your listed IBD medications are shown below.
+There may be an increased risk of infection in the first year of an infant’s life when anti-TNF biologics are used in combination with other immunosuppressants (eg azathioprine). Safety data is otherwise reassuring for anti-TNF use in pregnancy. However, it is important to note that there is only limited experience with the newer biologics such as ustekinumab and vedolizumab. 
+
+Further information regarding infection risk for your listed IBD medications are shown below.
 
 
 
