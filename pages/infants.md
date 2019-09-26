@@ -8,7 +8,7 @@ Unlike other medications, biologics are antibodies. Just like the antibodies a m
 
 The biologic can start actively crossing the placenta from Week 20 in pregnancy with the majority of the transfer occurring in the third trimester. As a result, your baby may be born with the biologic detectable in their blood.
 
-**VACCINATIONS:**
+**Vaccinations:**
 
 The medications a mother takes during pregnancy may affect whether or not the baby can receive certain vaccinations. While we recommend that decisions regarding medication choices in pregnancy are made independently to the effects on infant vaccination safety, knowledge regarding safe vaccination practices is important.
 
@@ -19,7 +19,7 @@ Further information regarding vaccinatiob information relevant for your listed I
 Also, more information regarding infants and vaccinations can be found at:
 [https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
-**INFECTIONS:**
+**Infections:**
 
 There may be an increased risk of infection in the first year of an infant’s life when anti-TNF biologics are used in combination with other immunosuppressants (eg azathioprine). Safety data is otherwise reassuring for anti-TNF use in pregnancy. However, it is important to note that there is only limited experience with the newer biologics such as ustekinumab and vedolizumab. Further information regarding infection risk for your listed IBD medications are shown below.
 
