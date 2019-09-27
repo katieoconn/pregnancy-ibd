@@ -1,4 +1,4 @@
-<h1>Medications (Pregnancy)</h1>
+<h1>Medications</h1>
 
 Like all medications, those used to treat IBD have different potential benefits,
 risks and side effects. For most medications, the risk of your IBD becoming active (flaring)
