@@ -1,9 +1,5 @@
 
-**
-
 ## NUTRITION
-
-**
 
 Good nutrition is important for everyone. This is especially true for women who are pregnant.
 
@@ -22,11 +18,8 @@ For additional Printable Nutrition Resources, please visit:  [http://www.healthy
 [https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
 
-**
-
 ## PHYSICAL ACTIVITY and EXERCISE
 
-**
 Physical activity is important for everyone, including pregnant women.   If you have a healthy lifestyle (exercise, nutrition, nonsmoker) before pregnancy, please continue during pregnancy.  If you did not have a healthy lifestyle before pregnancy, consider starting to embrace a healthier lifestyle.    Exercise during pregnancy can reduce risk of common pregnancy related complications.  
 
 It is recommended to do at least 150 minutes of moderate intensity (activity that increases the heart rate)  physical activity each week, accumulated over a minimum of 3 days per week.   Both aerobic exercise and resistance training is recommended.   Pelvic floor muscle training (Kegel exercises) may help reduce the risk of urinary incontinence.
