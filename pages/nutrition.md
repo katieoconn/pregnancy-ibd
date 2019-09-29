@@ -1,23 +1,55 @@
-<h1>Nutrition</h1>
+
+**
+
+## NUTRITION
+
+**
 
 Good nutrition is important for everyone. This is especially true for women who are pregnant.
 
-Nutritional recommendations include: 
-- eating a variety of food from the four food groups every day (fruit and vegetables; dairy
-and - alternatives; meat and alternatives; grain products)
-- eating three meals and two snacks each day 
-- Individualization of the diet may be needed based on your type of IBD
-- limiting foods and beverages high in calories, trans fat, sugar or salt 
-- being careful when preparing and storing food, especially raw fish and unpasteurized cheeses   
-- limiting your intake of caffeine to ~ 300mg/day while pregnant or breastfeeding   
-For example, a little more than two eight-ounce cups of coffee (link to:
-https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html) 
-Mother to Baby Fact Sheet on Caffeine: https://mothertobaby.org/fact-sheets/caffeine-pregnancy/ 
- 
-For additional Printable Nutrition Resources, please visit: 
-http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/ 
+Nutritional recommendations include:
 
-https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html
+-   eating a variety of food from the four food groups every day (fruit and vegetables; dairy and - alternatives; meat and alternatives; grain products)
+-   eating three meals and two snacks each day
+-   Individualization of the diet may be needed based on your type of IBD
+-   limiting foods and beverages high in calories, trans fat, sugar or salt
+-   being careful when preparing and storing food, especially raw fish and unpasteurized cheeses
+-   limiting your intake of caffeine to ~ 300mg/day while pregnant or breastfeeding  
+    For example, a little more than two eight-ounce cups of coffee (link to:  [https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html](https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html)) Mother to Baby Fact Sheet on Caffeine:  [https://mothertobaby.org/fact-sheets/caffeine-pregnancy/](https://mothertobaby.org/fact-sheets/caffeine-pregnancy/)
+
+For additional Printable Nutrition Resources, please visit:  [http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/](http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/)
+
+[https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
 
-<h5>Information last updated September 5, 2019.</h5>
+**
+
+## PHYSICAL ACTIVITY and EXERCISE
+
+**
+Physical activity is important for everyone, including pregnant women.   If you have a healthy lifestyle (exercise, nutrition, nonsmoker) before pregnancy, please continue during pregnancy.  If you did not have a healthy lifestyle before pregnancy, consider starting to embrace a healthier lifestyle.    Exercise during pregnancy can reduce risk of common pregnancy related complications.  
+
+It is recommended to do at least 150 minutes of moderate intensity (activity that increases the heart rate)  physical activity each week, accumulated over a minimum of 3 days per week.   Both aerobic exercise and resistance training is recommended.   Pelvic floor muscle training (Kegel exercises) may help reduce the risk of urinary incontinence.
+
+Remember to stay hydrated, wear loose-fitting clothes, avoid extremes of heat and humidity.    If you develop light-headedness, nausea, or feel unwell when you exercise while lying on your back, modifying the position to avoid the supine position may help, otherwise stop the activity and speak with your physician. 
+
+If you have medical or obstetric complications you may need to discuss with your obstetrician and other health care providers about an individualized exercise plan.   
+
+**Activities considered safe during (uncomplicated) pregnancy:** walking, swimming, stationary cycling, low impact aerobics, certain positions of yoga and pilates, running or jogging, strength training.   
+
+**Activities to avoid during pregnancy:** contact sports, activities with high risk of falling, scuba diving, sky diving, "hot yoga", "hot pilates".
+
+**If you have any of these conditions, aerobic exercise is contraindicated during pregnancy:** significant heart disease, restrictive lung disease, incompetent cervix, multiple gestation (risk of premature labor), persistent 2nd or 3rd trimester bleeding, placenta previa, ruptured membranes, pre-eclampsia or pregnancy induced high blood pressure, severe anemia, malnutrition, significant medical conditions.
+
+**Inflammatory Bowel Disease** is not a reason to avoid exercise in pregnancy.  However, severe IBD or complications of IBD such as severe anemia or malnutrition may be reasons to avoid aerobic exercise.   If you are unsure, please discuss with your health care team.
+
+For more information, check out these websites:
+
+American College of Obstetricians and Gynecologists: [https://www.acog.org/Patients/FAQs/Exercise-During-Pregnancy](https://www.acog.org/Patients/FAQs/Exercise-During-Pregnancy)
+
+Society of Obstetricians and Gynaecologists of Canada: 
+[https://els-jbs-prod-cdn.literatumonline.com/pb/assets/raw/Health%20Advance/journals/jogc/JOGC908_LR-1539864964137.pdf](https://els-jbs-prod-cdn.literatumonline.com/pb/assets/raw/Health%20Advance/journals/jogc/JOGC908_LR-1539864964137.pdf)
+
+The Royal Australian and New Zealand College of Obsetricians and Gynaecologists
+[https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf](https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf)
+> Written with [StackEdit](https://stackedit.io/).
