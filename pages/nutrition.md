@@ -1,5 +1,5 @@
 
-## NUTRITION
+## Nutrition
 
 Good nutrition is important for everyone. This is especially true for women who are pregnant.
 
@@ -20,13 +20,13 @@ For additional Printable Nutrition Resources, please visit:  [http://www.healthy
 [https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity](https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity)
 
 
-## PHYSICAL ACTIVITY and EXERCISE
+## Physical Activity and Exercise
 
 Physical activity is important for everyone, including pregnant women.   If you have a healthy lifestyle (exercise, nutrition, nonsmoker) before pregnancy, please continue during pregnancy.  If you did not have a healthy lifestyle before pregnancy, consider starting to embrace a healthier lifestyle.    Exercise during pregnancy can reduce risk of common pregnancy related complications.  
 
 It is recommended to do at least 150 minutes of moderate intensity (activity that increases the heart rate)  physical activity each week, accumulated over a minimum of 3 days per week.   Both aerobic exercise and resistance training is recommended.   Pelvic floor muscle training (Kegel exercises) may help reduce the risk of urinary incontinence.
 
-Remember to stay hydrated, wear loose-fitting clothes, avoid extremes of heat and humidity.    If you develop light-headedness, nausea, or feel unwell when you exercise while lying on your back, modifying the position to avoid the supine position may help, otherwise stop the activity and speak with your physician. 
+Remember to stay hydrated, wear loose-fitting clothes, and avoid extremes of heat and humidity.    If you develop light-headedness, nausea, or feel unwell when you exercise while lying on your back, modifying the position to avoid the supine position may help, otherwise stop the activity and speak with your physician. 
 
 If you have medical or obstetric complications you may need to discuss with your obstetrician and other health care providers about an individualized exercise plan.   
 
@@ -47,4 +47,4 @@ Society of Obstetricians and Gynaecologists of Canada:
 
 The Royal Australian and New Zealand College of Obsetricians and Gynaecologists
 [https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf](https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf)
-> Written with [StackEdit](https://stackedit.io/).
+
