@@ -27,6 +27,14 @@ Low birth weight can be associated with cognitive and developmental disorders.<s
 **Congenital malformations** (conditions or defects that affect the baby from birth and usually throughout their life)
 * There is not enough information available to determine whether or not  the risk of congenital malformations is higher or lower in women who have IBD 
 
+## **Will Pregnancy Effect my IBD?**
+Women who have active disease at the time of conception have a 2/3 chance of staying active or flaring worse, and a 1/3 chance of going into remission.   
+
+Women who are in remission at the time of conception have a 2/3 chance of staying in remission during pregnancy and a 1/3 chance of flaring.   
+
+Women with ulcerative colitis may have a higher risk of flaring during pregnancy than women with Crohn’s disease.   
+In general, it is recommended to try to be in remission at the time of conception for better chances of staying well in pregnancy. 
+
 ## **Is my IBD Active or Not?**
 
 There are several tests that can be done to determine if your disease is active (flaring) or inactive (in remission) before you get pregnant. 
