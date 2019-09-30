@@ -14,14 +14,14 @@ The medications a mother takes during pregnancy may affect whether or not the ba
 
 If exposed to a biologic in pregnancy, your infant cannot receive live vaccines for the first 9 to 12 months of life. 
 
-Further information regarding vaccinatiob information relevant for your listed IBD medications are shown below.
+Further information regarding vaccination information relevant for your listed IBD medications are shown below.
 
 Also, more information regarding infants and vaccinations can be found at:
 [https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
 **Infections:**
 
-There may be an increased risk of infection in the first year of an infant’s life when anti-TNF biologics are used in combination with other immunosuppressants (eg azathioprine). Safety data is otherwise reassuring for anti-TNF use in pregnancy. However, it is important to note that there is only limited experience with the newer biologics such as ustekinumab and vedolizumab. 
+There may be an increased risk of infection in the first year of an infant’s life when anti-TNF biologics are used in combination with other immunosuppressant's (eg azathioprine). Safety data is otherwise reassuring for anti-TNF use in pregnancy. However, it is important to note that there is only limited experience with the newer biologics such as ustekinumab and vedolizumab. 
 
 Further information regarding infection risk for your listed IBD medications are shown below.
 
