@@ -39,7 +39,7 @@ In general, it is recommended to try to be in remission at the time of conceptio
 
 There are several tests that can be done to determine if your disease is active (flaring) or inactive (in remission) before you get pregnant. 
 Your doctor may recommend you have one of the following tests to determine if you are in truly in remission before you get pregnant: 
-* Blood tests 
+* Blood tests (note: CRP can increase in pregnancy; albumin and iron levels can decrease in pregnancy)
 * F-Cal (fecal calprotectin) stool test can indicate if your disease is active or becoming active. It is a useful test to have checked before pregnancy and monitored during pregnancy. 
 * Ultrasound of intestines 
 
