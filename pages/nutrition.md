@@ -17,6 +17,8 @@ For additional Printable Nutrition Resources, please visit:  [http://www.healthy
 
 [https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
+[https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity](https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity)
+
 
 ## PHYSICAL ACTIVITY and EXERCISE
 
