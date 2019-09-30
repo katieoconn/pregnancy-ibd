@@ -19,9 +19,7 @@ There is a small risk of flaring observed within 3 months postpartum.  Therefore
 
 If you were on IBD medications throughout pregnancy to keep your disease in remission, you should continue post partum.
 
-**
- **1. Biologics**
-**
+***Biologics:***
 If you were on a biologic and temporarily held it or delayed a dose in the last trimester of pregnancy, you are likely due for a dose after delivery.     
 
 ***Vaginal delivery:*** Generally speaking, after an uncomplicated vaginal delivery, if you are due for a dose, you should be able to take the dose within 24 to 48 hours.  
