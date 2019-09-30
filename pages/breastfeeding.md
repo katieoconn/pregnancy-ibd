@@ -5,6 +5,8 @@ Some women may be in a position to breastfeed. Breastfeeding a baby will help su
 
 Women who are taking medication to manage IBD while they are breastfeeding are often concerned that the medication may harm their babies. In most cases, the concentration of medicine that passes through to the breastmilk is very small and women should feel comfortable continuing to take IBD medications while breastfeeding with the exception of methotrexate. 
 
+Information specific your listed medications is provided below.
+
 ## **FORMULA FEEDING**
 
 Some women choose not to breastfeed, or may not be able to breastfeed for a variety of reasons (insufficient milk supply, health condition, etc.). Women with IBD should discuss their options with their healthcare team. 
