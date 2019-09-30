@@ -1,7 +1,7 @@
 # Summary
 A summary of information relevant to your situation in shown below. We encourage you to discuss this information further with the specialists who are involved in your IBD and pregnancy care, as well as your general practioner/family doctor and family.
 
-You may also choose to record names of the specialists who are involved with your IBD and/or pregnancy care, as well as a flare plan (if you chose to print this page).
+You may also choose to record names of the specialists who are involved with your IBD and/or pregnancy care, as well as a flare plan (if you choose to print this page).
 
 My IBD specialist:
 
