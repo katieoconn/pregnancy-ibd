@@ -3,7 +3,7 @@
 
 After delivery, you may need to take medications for various reasons; if you are unsure, please speak with your physician(s).   These medications may include pain medications and IBD medications.
 
-## **PAIN MEDICATIONS**
+## **Pain Medications**
 
 It is not uncommon to have pain after vaginal delivery or C-section.     After vaginal delivery, women may have pain from breast engorgement, uterine contractions, perineal lacerations.   After C-section, women may have pain from the surgical wound.   Non-opioid analgesics such as acetaminophen and nonsteroidal anti-inflammatory drugs (NSAIDs) are recommended first.  If required, stronger medications including opioids or opioids in combination with acetaminophen or NSAID can be used with guidance from your health care providers.
 
@@ -13,7 +13,7 @@ It is not uncommon to have pain after vaginal delivery or C-section.     After v
 
 Shared decision-making is best when it comes to pain control postpartum.
 
-## **IBD MEDICATIONS**
+## **IBD Medications**
 
 There is a small risk of flaring observed within 3 months postpartum.  Therefore, it is important to ensure you are on any necessary IBD medications post partum.
 
