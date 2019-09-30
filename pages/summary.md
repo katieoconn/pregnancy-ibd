@@ -21,7 +21,7 @@ My flare plan:
 
 
 
-
+Other useful information:
 
 <!-- <h1>Summary:<br /> pregnancy, crohns disease, perianal</h1>
 
