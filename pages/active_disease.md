@@ -28,7 +28,7 @@ Low birth weight can be associated with cognitive and developmental disorders.<s
 * There is not enough information available to determine whether or not  the risk of congenital malformations is higher or lower in women who have IBD 
 
 ## **Will Pregnancy Affect my IBD?**
-Women who have active disease at the time of conception have a 2/3 chance of staying active or flaring worse, and a 1/3 chance of going into remission.   
+Women who have active disease at the time of conception have a 2/3 chance of their disease staying active or flaring worse, and a 1/3 chance of going into remission.   
 
 Women who are in remission at the time of conception have a 2/3 chance of staying in remission during pregnancy and a 1/3 chance of flaring.   
 
