@@ -1,6 +1,20 @@
 # Summary
+A summary of information relevant to your situation in shown below. We encourage you to discuss this information further with the specialists who are involved in your IBD and pregnancy care, as well as your general practioner/family doctor and family.
 
-Here's a blurb describing the summary.
+You may also choose to record names of the specialists who are involved with your IBD and/or pregnancy care, as well as a flare plan (if you chose to print this page).
+
+My IBD specialist:
+
+My obstetrician:
+
+My GP/family doctor:
+
+Other specialists:
+
+My flare plan:
+
+
+
 
 <!-- <h1>Summary:<br /> pregnancy, crohns disease, perianal</h1>
 
