@@ -26,7 +26,7 @@ Physical activity is important for everyone, including pregnant women.   If you 
 
 It is recommended to do at least 150 minutes of moderate intensity (activity that increases the heart rate)  physical activity each week, accumulated over a minimum of 3 days per week.   Both aerobic exercise and resistance training is recommended.   Pelvic floor muscle training (Kegel exercises) may help reduce the risk of urinary incontinence.
 
-Remember to stay hydrated, wear loose-fitting clothes, and avoid extremes of heat and humidity.    If you develop light-headedness, nausea, or feel unwell when you exercise while lying on your back, modifying the position to avoid the supine position may help, otherwise stop the activity and speak with your physician. 
+Remember to stay hydrated, wear loose-fitting clothes, and avoid extremes of heat and humidity.    If you develop light-headedness, nausea, or feel unwell when you exercise while lying on your back, modifying the position may help, otherwise stop the activity and speak with your physician. 
 
 If you have medical or obstetric complications you may need to discuss with your obstetrician and other health care providers about an individualized exercise plan.   
 
