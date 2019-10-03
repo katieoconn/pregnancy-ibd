@@ -1,4 +1,4 @@
-<h1>Disease Activity</h1>
+<h1>Active Disease</h1>
 
 **Active disease (or Flare)**: when an individual is experiencing symptoms of IBD because tissues are inflamed and irritated
 
