@@ -1,4 +1,3 @@
-
 ## Nutrition
 
 Good nutrition is important for everyone. This is especially true for women who are pregnant.
@@ -11,13 +10,28 @@ Nutritional recommendations include:
 -   limiting foods and beverages high in calories, trans fat, sugar or salt
 -   being careful when preparing and storing food, especially raw fish and unpasteurized cheeses
 -   limiting your intake of caffeine to ~ 300mg/day while pregnant or breastfeeding  
-    For example, a little more than two eight-ounce cups of coffee (link to:  [https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html](https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html)) Mother to Baby Fact Sheet on Caffeine:  [https://mothertobaby.org/fact-sheets/caffeine-pregnancy/](https://mothertobaby.org/fact-sheets/caffeine-pregnancy/)
+  
+  For additional information on caffeine and pregnancy please visit the following links: 
+  
+Canadian Information:
+ 1. [https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html](https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html)) 
+2. [https://mothertobaby.org/fact-sheets/caffeine-pregnancy/](https://mothertobaby.org/fact-sheets/caffeine-pregnancy/)
 
-For additional Printable Nutrition Resources, please visit:  [http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/](http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/)
+Australian Information: 
+1. [https://www.seslhd.health.nsw.gov.au/sites/default/files/migration/Mothersafe/documents/Caffeinenov27.pdf](https://www.seslhd.health.nsw.gov.au/sites/default/files/migration/Mothersafe/documents/Caffeinenov27.pdf)
 
-[https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
 
-[https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity](https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity)
+For additional Printable Nutrition Resources, please visit:
+
+Canadian Information:
+
+1. [http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/](http://www.healthyparentshealthychildren.ca/where-to-go-for-more-information/printable-nutrition-resources/)
+
+2. [https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html](https://www.canada.ca/en/public-health/services/health-promotion/healthy-pregnancy/healthy-pregnancy-guide.html)
+
+Australian Information:
+
+1. [https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity](https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity)
 
 
 ## Physical Activity and Exercise
@@ -40,11 +54,16 @@ If you have medical or obstetric complications you may need to discuss with your
 
 For more information, check out these websites:
 
-American College of Obstetricians and Gynecologists: [https://www.acog.org/Patients/FAQs/Exercise-During-Pregnancy](https://www.acog.org/Patients/FAQs/Exercise-During-Pregnancy)
+American Information: 
+1. American College of Obstetricians and Gynecologists: [https://www.acog.org/Patients/FAQs/Exercise-During-Pregnancy](https://www.acog.org/Patients/FAQs/Exercise-During-Pregnancy)
 
-Society of Obstetricians and Gynaecologists of Canada: 
+Canadian Information: 
+1. Society of Obstetricians and Gynaecologists of Canada: 
 [https://els-jbs-prod-cdn.literatumonline.com/pb/assets/raw/Health%20Advance/journals/jogc/JOGC908_LR-1539864964137.pdf](https://els-jbs-prod-cdn.literatumonline.com/pb/assets/raw/Health%20Advance/journals/jogc/JOGC908_LR-1539864964137.pdf)
 
-The Royal Australian and New Zealand College of Obsetricians and Gynaecologists
+Australian Information: 
+1. The Royal Australian and New Zealand College of Obsetricians and Gynaecologists
 [https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf](https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf)
+
+
 
