@@ -1,3 +1,3 @@
 ## Surgery
 
-If you informed us that you have had surgery, the types are listed below:
+If you informed us that you have had surgery, the type/s are listed below:
