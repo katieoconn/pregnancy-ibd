@@ -1,4 +1,4 @@
-{
+var text = {
   title: 'aminosalicylates',
   options: ['no', 'sulfasalazine', 'otherAminosalicylates']
 },
@@ -34,3 +34,5 @@
   title: 'test',
   options: ['no', 'test2']
 }
+
+module.exports = {data: text}
