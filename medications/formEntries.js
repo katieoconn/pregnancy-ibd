@@ -1,6 +1,4 @@
-module.exports = {
-
-  {
+{
   title: 'aminosalicylates',
   options: ['no', 'sulfasalazine', 'otherAminosalicylates']
 },
@@ -36,4 +34,3 @@ module.exports = {
   title: 'test',
   options: ['no', 'test2']
 }
-};
