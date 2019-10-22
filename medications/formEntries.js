@@ -29,8 +29,4 @@
 {
   "title": "steriods",
   "options": ["no", "prednisone", "budesonide", "intravenous"]
-},
-{
-  "title": "test",
-  "options": ["no", "test2"]
 }]
