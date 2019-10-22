@@ -1,4 +1,6 @@
-{
+module.exports = {
+list: [
+  {
   title: 'aminosalicylates',
   options: ['no', 'sulfasalazine', 'otherAminosalicylates']
 },
@@ -34,3 +36,5 @@
   title: 'test',
   options: ['no', 'test2']
 }
+]
+};
