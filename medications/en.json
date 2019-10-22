@@ -85,8 +85,6 @@
         "prednisone": "Prednisone",
         "budesonide": "Budesonide (Entocort®);  Budesonide MMX (Cortiment®)",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone",
-        "test": "test",
-        "test2": "test"
       }
     },
     "definitions": {
@@ -266,17 +264,6 @@
       "steriodsintravenous": {
         "pregnant": {
           "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
-        },
-        "preconception": {
-          "medications": ""
-        },
-        "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "",
-        "infections": ""
-      },
-      "testtest2": {
-        "pregnant": {
-          "medications": "Preferential use of test hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "preconception": {
           "medications": ""
