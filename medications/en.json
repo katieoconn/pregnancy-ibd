@@ -1,53 +1,6 @@
 {
   "home": {
-    "introduction": "Introduction",
-    "essentialInfo": "Essential Info",
-    "activeDisease": "Disease Activity",
-    "postpartum": "Postpartum",
-    "questions": "Tell Us About You",
-    "quiz_for_you": "Questions for You",
-    "pregnancy": "Pregnancy",
-    "disease": "Disease",
-    "value_survey": "Values Survey",
-    "surgery": "Surgery",
-    "yourSummary": "Your Summary",
-    "preconception": "Preconception",
-    "fertility": "Fertility",
-    "contraception": "Contraception",
-    "pre_medications": "Medications",
-    "inheritance": "Inheritance",
-    "surgeries": "Surgery",
-    "medication": "Medication List",
-    "delivery": "Delivery",
-    "preg_medications": "Medications",
-    "breastfeeding": "Feeding Your Infant",
-    "post_medications": "Medications",
-    "nutrition": "Nutrition",
-    "substance_use": "Substance Use",
-    "infants": "Infants",
-    "opinion_review": "Opinion Review",
-    "summary": "Your Summary",
-    "summary_title": "Summary",
-
-    "internalPages": {
-      "medicationP1": "My Medication List",
-      "medicationP2": "Medications - MTX",
-      "medicationP3": "Biologics",
-      "medicationP4": "Opinions Now",
-      "medicationP5": "My Medication Information",
-      "medicationP6": "Opinion Review",
-      "forms": {
-        "notSafe": "Not Safe",
-        "safe": "Safe",
-        "notConcerned": "Not Concerned",
-        "concerned": "Concerned",
-        "continue": "Continue",
-        "discontinue": "Discontinue",
-        "notImportant": "Not Important",
-        "important": "Important"
-      }
-    },
-    "forms": {
+        "forms": {
       "pregnant": "I'm pregnant",
       "preconception": "I'm preconception",
       "ulcerative": "ulcerative COLITIS",
@@ -86,25 +39,6 @@
         "budesonide": "Budesonide (Entocort®);  Budesonide MMX (Cortiment®)",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone"
       }
-    },
-    "definitions": {
-      "jpouch": "JPouch",
-      "preconception": "Preconception",
-      "crohns": "Crohns Disease",
-      "ulcerative": "Ulcerative Colitis",
-      "colestomy": "Colostomy/Ileostomy",
-      "colectomy": "Colectomy",
-      "ileal": "Ileal/Ileocolonic Resection",
-      "perianal": "Perianal Disease",
-      "definedTerm": "Example Term"
-    },
-    "feedback": {
-      "option1": "Likelihood of my baby being exposed to any drug during in utero development.",
-      "option2": "Likelihood my baby being born with detectable drug in their bloodstream?",
-      "option3": "The possible need to start steroids during pregnancy due to active IBD",
-      "option4": "The risk my IBD will flare during pregnancy",
-      "option5": "The possible need to start or restart a stopped medication due to active IBD",
-      "option6": "Exposing my baby to a medication for which we only have limited information on safety for pregnancy (for example, small number of patients who have received the medication in pregnancy or short duration of follow up of infants)"
     },
     "medicationSelection": {
       "aminosalicylatessulfasalazine": {
@@ -272,6 +206,72 @@
         "vaccinations": "",
         "infections": ""
       }
+    },
+    "introduction": "Introduction",
+    "essentialInfo": "Essential Info",
+    "activeDisease": "Disease Activity",
+    "postpartum": "Postpartum",
+    "questions": "Tell Us About You",
+    "quiz_for_you": "Questions for You",
+    "pregnancy": "Pregnancy",
+    "disease": "Disease",
+    "value_survey": "Values Survey",
+    "surgery": "Surgery",
+    "yourSummary": "Your Summary",
+    "preconception": "Preconception",
+    "fertility": "Fertility",
+    "contraception": "Contraception",
+    "pre_medications": "Medications",
+    "inheritance": "Inheritance",
+    "surgeries": "Surgery",
+    "medication": "Medication List",
+    "delivery": "Delivery",
+    "preg_medications": "Medications",
+    "breastfeeding": "Feeding Your Infant",
+    "post_medications": "Medications",
+    "nutrition": "Nutrition",
+    "substance_use": "Substance Use",
+    "infants": "Infants",
+    "opinion_review": "Opinion Review",
+    "summary": "Your Summary",
+    "summary_title": "Summary",
+
+    "internalPages": {
+      "medicationP1": "My Medication List",
+      "medicationP2": "Medications - MTX",
+      "medicationP3": "Biologics",
+      "medicationP4": "Opinions Now",
+      "medicationP5": "My Medication Information",
+      "medicationP6": "Opinion Review",
+      "forms": {
+        "notSafe": "Not Safe",
+        "safe": "Safe",
+        "notConcerned": "Not Concerned",
+        "concerned": "Concerned",
+        "continue": "Continue",
+        "discontinue": "Discontinue",
+        "notImportant": "Not Important",
+        "important": "Important"
+      }
+    },
+    "definitions": {
+      "jpouch": "JPouch",
+      "preconception": "Preconception",
+      "crohns": "Crohns Disease",
+      "ulcerative": "Ulcerative Colitis",
+      "colestomy": "Colostomy/Ileostomy",
+      "colectomy": "Colectomy",
+      "ileal": "Ileal/Ileocolonic Resection",
+      "perianal": "Perianal Disease",
+      "definedTerm": "Example Term"
+    },
+    "feedback": {
+      "option1": "Likelihood of my baby being exposed to any drug during in utero development.",
+      "option2": "Likelihood my baby being born with detectable drug in their bloodstream?",
+      "option3": "The possible need to start steroids during pregnancy due to active IBD",
+      "option4": "The risk my IBD will flare during pregnancy",
+      "option5": "The possible need to start or restart a stopped medication due to active IBD",
+      "option6": "Exposing my baby to a medication for which we only have limited information on safety for pregnancy (for example, small number of patients who have received the medication in pregnancy or short duration of follow up of infants)"
     }
   }
 }
