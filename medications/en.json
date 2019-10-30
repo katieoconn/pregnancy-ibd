@@ -71,8 +71,8 @@
           "medications": "Methotrexate can be harmful in pregnancy causing embryo malformation and fetal death. Discontinue use at least 3 months prior to trying to conceive (women and men)."
         },
         "breastfeeding": "Most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "All usual vaccinations, including live vaccines can be given, however most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
+        "infections": "No known impact on infant risk, however most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered."
       },
       "allopurinolyes": {
         "pregnant": {
@@ -82,8 +82,8 @@
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the safety of use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, it is suggested you discuss with your gastroenterologist potentially revising the use of allopurinol prior to becoming pregnant."
         },
         "breastfeeding": "Exclusively breastfed infants should be monitored, including observation for allergic reactions (such as rash) and periodic blood count (CBC).",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
+        "infections": "No known impact on infant risk"
       },
       "thiopurinesIncludingyes": {
         "pregnant": {
@@ -200,11 +200,11 @@
           "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "preconception": {
-          "medications": ""
+          "medications": "No known concerns."
         },
         "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
+        "infections": "No known impact on infant risk"
       }
     },
     "introduction": "Introduction",
