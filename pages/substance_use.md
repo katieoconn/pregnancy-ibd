@@ -30,13 +30,13 @@ Australian Resouces:
 
 Canadian Resouces:
 
-1. Pregnets.org
+1. [Pregnets.org](https://www.nicotinedependenceclinic.com/en/pregnets)
 
-2. Albertaquits.ca 
+2. [Albertaquits.ca](https://www.albertaquits.ca/) 
 
 Australian Resoucres:
 
-1. quit.org.au
+1. [quit.org.au](https://www.quit.org.au)
 
 **E-cigarettes in Pregnancy**
 
@@ -54,4 +54,4 @@ Canadian Resources:
 
 1. https://www.acog.org/Clinical-Guidance-and-Publications/Committee-Opinions/Committee-on-Obstetric-Practice/Marijuana-Use-During-Pregnancy-and-Lactation
 
-<h5>Information last updated October 10, 2019.</h5>
+<h5>Information last updated October 30, 2019.</h5>
