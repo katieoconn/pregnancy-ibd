@@ -6,4 +6,4 @@ your IBD medications.
 Please answer the following questions to help your health care team help you in your
 decision-making.
 
-Which medications are you currently taking or have been prescribed to take?
+Which medications are you considering starting to take, currently taking or have been prescribed to take?
