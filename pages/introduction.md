@@ -13,6 +13,10 @@ This decision aid will walk you through questions about you, your life and your 
 
 Definitions for certain IBD related terms are available if the term is shown in purple (by clicking on this word, a definition becomes available on the right hand side of the page). 
 
-<h5>Information last updated September 5, 2019.</h5>
+The following sources of financial support have been received for myPIDA:
+Women and Children's Health Research Institute (WCHRI) Clinical/Community Research Integration Support Program (CRISP); Merck Better Care, Healthy Communities Funding Program; Gastroenterological Society of Australia Rose Amarant Grant
+
+
+<h5>Information last updated April 29, 2020.</h5>
 
 
