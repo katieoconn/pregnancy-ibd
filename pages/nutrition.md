@@ -4,11 +4,13 @@ Good nutrition is important for everyone. This is especially true for women who 
 
 Nutritional recommendations include:
 
+-   use of a folate containing prenatal supplement (during pregnancy and ideally at least three months prior to conception)
+      - a higher dose of folic acid (2mg daily) is recommended if you are on a low-residue diet, if your IBD involves your ileum or if you are taking prescribed medications            that interfere with folate metabolism (eg sulfasalazine)  
 -   eating a variety of food from the four food groups every day (fruit and vegetables; dairy and - alternatives; meat and alternatives; grain products)
 -   eating three meals and two snacks each day
--   Individualization of the diet may be needed based on your type of IBD
+-   individualization of the diet may be needed based on your type of IBD
 -   limiting foods and beverages high in calories, trans fat, sugar or salt
--   being careful when preparing and storing food, especially raw fish and unpasteurized cheeses
+-   avoidance of foods at higher risk of contamination with Listeria, including, raw fish and unpasteurized cheeses
 -   limiting your intake of caffeine to ~ 300mg/day while pregnant or breastfeeding  
   
   For additional information on caffeine and pregnancy please visit the following links: 
