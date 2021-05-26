@@ -71,7 +71,7 @@ Canadian Resources:
 Australian Resources: 
 
 1. The Royal Australian and New Zealand College of Obsetricians and Gynaecologists
-[https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf](https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf)
+[https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62).pdf?ext=.pdf](https://ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Exercise-during-pregnancy-(C-Obs-62)-New-July-2016.pdf?ext=.pdf)
 
 
 
