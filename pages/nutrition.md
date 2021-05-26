@@ -1,4 +1,4 @@
-## Nutrition
+## Nutrition and Fitness
 
 Good nutrition is important for everyone. This is especially true for women who are pregnant.
 
