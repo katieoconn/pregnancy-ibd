@@ -17,7 +17,7 @@ Nutritional recommendations include:
   
 Canadian Resources:
  
- 1. [https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html](https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html)) 
+ 1. [https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html](https://www.canada.ca/en/public-health/services/pregnancy/caffeine.html)
 
 2. [https://mothertobaby.org/fact-sheets/caffeine-pregnancy/](https://mothertobaby.org/fact-sheets/caffeine-pregnancy/)
 
