@@ -6,14 +6,16 @@
 
 ## **Will my IBD Affect Pregnancy or the Baby?**
 
-Compared with the general population, women living with IBD may have a slightly increased risk of the complications listed below. These risks are increased if IBD is active during pregnancy
+Compared with the general population, women living with IBD may have a slightly increased risk of the complications. 
+
+The risk of complications during pregnancy further increases if your IBD is not under control. Such complications include losing the baby or having a premature or low birth weight baby
 
 **Pre-term births** (before 37 weeks gestation) estimated to occur in:
 
 * 5 of every 100 births (in women with **inactive IBD**) vs. 15 of every 100 births (in women with **active IBD**)<sup>1</sup>
 ![enter image description here](https://github.com/tactica/pregnancy-ibd/blob/master/images/preterm.PNG?raw=true)
 
-Pre-term birth can be associated with difficulties with temperature regulation, feeding and breathing. Pre-term birth can also be associated with complications (including of the heart, eyes and bowel and infections), prolonged hospital stay and learning and development disabilities. <sup>1</sup>
+Infants born prematurely have difficulty with breathing, temperature regulation and feeding and are prone to infections. Additionally, preterm birth can cause complications of the heart, eyes, brain and bowel.  This can result in a prolonged hospital stay with long term motor and developmental disabilities. 
 
 **Low birth weight** (2500g or 5.5 lbs) estimated to occur in:
 
@@ -29,14 +31,15 @@ Low birth weight can be associated with cognitive and developmental disorders.<s
 
 
 **Congenital malformations** (conditions or defects that affect the baby from birth and usually throughout their life)
-* There is not enough information available to determine whether or not  the risk of congenital malformations is higher or lower in women who have IBD 
+* IBD in general does not increase the likelihood of congenital malformations. 
 
 ## **Will Pregnancy Affect my IBD?**
-Women who have active disease at the time of conception have a 2/3 chance of their disease staying active or flaring worse, and a 1/3 chance of going into remission.   
+Of women who have active disease at the time of conception, two in three are likely to have active disease, and one in three are likely to go into remission.   
 
-Women who are in remission at the time of conception have a 2/3 chance of staying in remission during pregnancy and a 1/3 chance of flaring.   
+On the other hand, of women who are in remission at the time of conception, two in three are likely to stay in remission, and one in three have a flare
 
 Women with ulcerative colitis may have a higher risk of flaring during pregnancy than women with Crohn’s disease.   
+
 In general, it is recommended to try to be in remission at the time of conception for better chances of staying well in pregnancy. 
 
 ## **Is my IBD Active or Not?**
@@ -44,7 +47,7 @@ In general, it is recommended to try to be in remission at the time of conceptio
 There are several tests that can be done to determine if your disease is active (flaring) or inactive (in remission) before you get pregnant. 
 Your doctor may recommend you have one of the following tests to determine if you are in truly in remission before you get pregnant: 
 * Blood tests (note: CRP can increase in pregnancy; albumin and iron levels can decrease in pregnancy)
-* F-Cal (fecal calprotectin) stool test can indicate if your disease is active or becoming active. It is a useful test to have checked before pregnancy and monitored during pregnancy. 
+* Fecal calprotectin stool test can indicate if your disease is active or becoming active. It is a useful test to have checked before pregnancy and monitored during pregnancy as studies show the fecal calprotectin is not significantly increased due to pregnancy alone. 
 * Ultrasound of intestines 
 
 * Flexible sigmoidoscopy or colonoscopy
