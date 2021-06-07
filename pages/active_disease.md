@@ -56,4 +56,4 @@ Your doctor may recommend you have one of the following tests to determine if yo
 Be sure to advise the doctor or technician if you are trying to conceive or may be pregnant, as endoscopic or imaging tests may need to be delayed or modified
 
 
-<h5>Information last updated October 9, 2019.</h5>
+<h5>Information last updated June 7, 2021.</h5>
