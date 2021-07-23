@@ -7,8 +7,12 @@ Women who are taking medication to manage IBD while they are breastfeeding are o
 
 Information specific your listed medications is provided below.
 
+Additional information can be found at: 
+
+https://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm 
+
 ## **Formula Feeding**
 
 Some women choose not to breastfeed, or may not be able to breastfeed for a variety of reasons (insufficient milk supply, health condition, etc.). Women with IBD should discuss their options with their healthcare team. 
 
-<h5>Information last updated September 9, 2019.</h5>
+<h5>Information last updated July 23, 2021.</h5>
