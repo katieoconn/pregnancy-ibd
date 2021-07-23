@@ -20,10 +20,13 @@ There is a small risk of flaring observed within 3 months postpartum.  Therefore
 If you were on IBD medications throughout pregnancy to keep your disease in remission, you should continue post partum.
 
 ***Biologics:***
-If you were on a biologic and temporarily held it or delayed a dose in the last trimester of pregnancy, you are likely due for a dose after delivery.     
+If you were on a biologic and temporarily held it or delayed a dose in the last trimester of pregnancy, you are likely due for a dose after delivery.
 
 ***Vaginal delivery:*** Generally speaking, after an uncomplicated vaginal delivery, if you are due for a dose, you should be able to take the dose within 24 to 48 hours.  
 
 ***C-section delivery:***  After c-section, it is advisable to wait 3 to 5 days to have your obstetrician clear you from any postpartum infections or wound issues, and wait for them to give the okay.  It is important not to skip or delay too many doses.
 
 If the timing of your biologic dose after delivery has not been arranged, please speak with your gastroenterologist, IBD nurse, or biologic program coordinator.  
+
+In this decision aid, similar recommendations have been made for all groups of biologics based on the information currently available. However, the anti-TNF group of biologics has been used in IBD for longer than other groups and as a result, there is more information available regarding the use of anti-TNFs during conception, pregnancy and breastfeeding
+
