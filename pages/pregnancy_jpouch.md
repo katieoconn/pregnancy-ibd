@@ -1,4 +1,3 @@
 **J pouch (IPAA)**
 
-This surgery generally does not affect one's ability to carry pregnancy to term.   
-
+Having this surgery prior to pregnancy generally does not affect one's ability to carry pregnancy to term. 
