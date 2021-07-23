@@ -1,3 +1,3 @@
 **Ileostomy and Colostomy**
 
-These surgeries do not generally affect the ability to carry a pregnancy to term. 
+Having this surgery prior to pregnancy does not affect one’s ability to carry a pregnancy to term.    
