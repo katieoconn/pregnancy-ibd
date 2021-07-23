@@ -115,7 +115,7 @@
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
         },
         "breastfeeding": "Very little Vedolizumab is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
-        "vaccinations": "Given there is limited known information about vedolizumab in pregnancy, it is also recommended that babies exposed to vedolizumab in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given",
+        "vaccinations": "Babies exposed to vedolizumab in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given",
         "infections": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
       },
       "biologicsustekinumab": {
@@ -137,7 +137,7 @@
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. "
         },
         "breastfeeding": "No information is available on the clinical use of tofacitinib during breastfeeding.",
-        "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
+        "vaccinations": "Insufficient information is available at the time this resource was created to advise regarding vaccination and exposure to tofacitinib.",
         "infections": "There was minimal information available at the time this resource was created."
       },
       "antibioticsciprofloxacin": {
