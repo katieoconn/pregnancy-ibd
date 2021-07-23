@@ -9,7 +9,7 @@ It is not uncommon to have pain after vaginal delivery or C-section.     After v
 
 ***NSAIDS***: NSAIDS may trigger flares in some people with IBD and may cause gastrointestinal complications (dyspepsia, ulcer, gastrointestinal bleeding).     NSAIDS are excreted into breast milk but in very low concentrations, and considered safe to continue in breast feeding.  Ibuprofen is the preferred first-line agent because of short half-life and very low concentrations in the breast milk.  
 
-***Opioids*** : Opiod medications (e.g. codeine, morphine, hydromorphone, fentanyl) have an effect on the mother's central nervous system (CNS) and may result in CNS depression (grogginess, sleepiness).   Opioids are transferred into the breast milk and may affect the breast fed infant (excessive sedation and depressed respiration).  Therefore opioids should be taken for the shortest duration of time possible, and only when prescribed and monitored by a physician.  
+***Opioids*** : Opioid medications (e.g. codeine, morphine, hydromorphone, fentanyl) have an effect on the mother's central nervous system (CNS) and may result in CNS depression (grogginess, sleepiness).   Opioids are transferred into the breast milk and may affect the breast fed infant (excessive sedation and depressed respiration).  Therefore opioids should be taken for the shortest duration of time possible, and only when prescribed and monitored by a physician.  
 
 Shared decision-making is best when it comes to pain control postpartum.
 
