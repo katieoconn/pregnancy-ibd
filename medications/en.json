@@ -59,7 +59,7 @@
         "preconception": {
           "medications": "Some formulations of Asacol® contain a chemical in the coating (DBP) that may pose a very small risk to the fetal development. If your prescribed Asacol (check with your gastroenterologist or pharmacist) does have this coating, consider switching to another 5 ASA."
         },
-        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.
+        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
@@ -87,7 +87,7 @@
       },
       "thiopurinesIncludingyes": {
         "pregnant": {
-          "medications": "Monitor maternal blood counts (CBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis). Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth."
+          "medications": "Monitor maternal blood counts (CBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis)."
         },
         "preconception": {
           "medications": "No known concerns."
