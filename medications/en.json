@@ -109,14 +109,14 @@
       },
       "biologicsvedolizumab": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
         },
         "breastfeeding": "Very little Vedolizumab is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
         "vaccinations": "Given there is limited known information about vedolizumab in pregnancy, it is also recommended that babies exposed to vedolizumab in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given",
-        "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
+        "infections": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
       },
       "biologicsustekinumab": {
         "pregnant": {
@@ -127,7 +127,7 @@
         },
         "breastfeeding": "Very little ustekinumab is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
         "vaccinations": "Babies exposed to ustekinumab in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given",
-        "infections": There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
+        "infections": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
       },
       "smallMoleculesyes": {
         "pregnant": {
