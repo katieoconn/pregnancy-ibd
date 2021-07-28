@@ -54,10 +54,10 @@
       },
       "aminosalicylatesotherAminosalicylates": {
         "pregnant": {
-          "medications": "If you are taking Asacol® and are pregnant, it is not recommended to switch to another 5 ASA as there is a small risk of flaring with switching, even if it does have the DBP coating."
+          "medications": "Other Aminosalicylates, including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics are considered safe and should be continued during pregnancy"
         },
-        "preconception": {
-          "medications": "Some formulations of Asacol® contain a chemical in the coating (DBP) that may pose a very small risk to the fetal development. If your prescribed Asacol (check with your gastroenterologist or pharmacist) does have this coating, consider switching to another 5 ASA."
+        "preconception": "Other Aminosalicylates, including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics do not have any known concerns regarding fertility and conceiving"
+          "medications": "Some"
         },
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
