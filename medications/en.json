@@ -54,9 +54,9 @@
       },
       "aminosalicylatesotherAminosalicylates": {
         "pregnant": {
-          "medications": "Other Aminosalicylates, including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics are considered safe and should be continued during pregnancy"
+          "medications": 
         },
-        "preconception": "Other Aminosalicylates, including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics do not have any known concerns regarding fertility and conceiving"
+        "preconception": 
           "medications": "Some"
         },
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.",
