@@ -1,4 +1,4 @@
-<h1>Infants</h1>
+<h1>Infant Health and Vaccinations</h1>
 
 IBD medications generally are not known to adversely affect the baby in the future in terms of organ development including immune system development or risk of infection (with the exception of methotrexate). There may be an impact on which vaccinations your infant can receive in the first year of life (just like medications may impact which vaccinations you can receive)
 
