@@ -31,6 +31,6 @@
   "options": ["no", "ciprofloxacin", "metronidazole", "vancomycin"]
 },
 {
-  "title": "steroids",
+  "title": "steriods",
   "options": ["no", "prednisone", "budesonide", "intravenous"]
 }]
