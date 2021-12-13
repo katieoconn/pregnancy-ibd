@@ -33,11 +33,15 @@
         "ustekinumab": "Ustekinumab (Stelara®)",
         "smallMolecules": "SMALL MOLECULES (including Jak Kinase Inhibitors), Tofacitinib (Xeljanz®)",
         "antibiotics": "Antibiotics",
+        "cyclosporin": "Cyclosporin",
         "ciprofloxacin": "Ciprofloxacin",
+        "metronadizole": "Metronadizole",
         "metronidazole": "Metronidazole",
+        "penicillin": "Penicillin based",
         "vancomycin": "Vancomycin",
         "steriods": "Steriods",
-        "prednisone": "Prednisone",
+        "corticosteroids": "Cortiscosteroids",
+        "prednisone": "Prednisone/Prednisolone",
         "budesonide": "Budesonide (Entocort®);  Budesonide MMX (Cortiment®)",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone"
       }
