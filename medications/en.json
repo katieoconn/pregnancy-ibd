@@ -49,6 +49,9 @@
         "steriods": "Steriods",
         "corticosteroids": "Cortiscosteroids",
         "prednisone": "Prednisone/Prednisolone",
+        "prednisolone": "Prednisolone",
+        "methylprednisolone": "Methylprednisolone",
+        "hydrocortisone": "Hydrocortisone",
         "budesonide": "Budesonide (Entocort®);  Budesonide MMX (Cortiment®)",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone"
       }
