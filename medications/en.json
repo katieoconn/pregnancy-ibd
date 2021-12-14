@@ -83,7 +83,7 @@
         "antiTnfs": "Anti-TNFs, including Infliximab (Remicade®,  Inflectra®, Remsima®), Adalimumab (Humira®), Golimumab (Simponi®)",
         "vedolizumab": "Vedolizumab (Entyvio®)",
         "ustekinumab": "Ustekinumab (Stelara®)",
-        "smallMolecules": "SMALL MOLECULES (including Jak Kinase Inhibitors), Tofacitinib (Xeljanz®)",
+        "smallMolecules": "Small molecule",
         "antibiotics": "Antibiotics",
         "ciprofloxacin": "Ciprofloxacin",
         "metronidazole": "Metronidazole",
@@ -172,7 +172,7 @@
         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
-        "pregnancy": {
+        "pregnant": {
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "breastfeeding": "",
@@ -183,7 +183,7 @@
         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
-        "pregnancy": {
+        "pregnant": {
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "breastfeeding": "",
