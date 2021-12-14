@@ -1,6 +1,54 @@
 {
   "home": {
-        "forms": {
+    "introduction": "Introduction",
+    "essentialInfo": "Essential Info",
+    "activeDisease": "Disease Activity",
+    "postpartum": "Postpartum",
+    "postpartum_mum": "Post-partum Mum",
+    "questions": "Tell Us About You",
+    "quiz_for_you": "Questions for You",
+    "pregnancy": "Pregnancy",
+    "disease": "Disease",
+    "value_survey": "Values Survey",
+    "surgery": "Surgery",
+    "yourSummary": "Your Summary",
+    "preconception": "Preconception",
+    "fertility": "Fertility",
+    "contraception": "Contraception",
+    "pre_medications": "Medications",
+    "inheritance": "Inheritance",
+    "surgeries": "Surgery",
+    "medication": "Medication List",
+    "delivery": "Delivery",
+    "preg_medications": "Medications",
+    "breastfeeding": "Feeding Your Infant",
+    "post_medications": "Medications",
+    "nutrition": "Nutrition",
+    "substance_use": "Substance Use",
+    "infants": "Infants",
+    "opinion_review": "Opinion Review",
+    "summary": "Your Summary",
+    "summary_title": "Summary",
+
+    "internalPages": {
+      "medicationP1": "My Medication List",
+      "medicationP2": "Medications - MTX",
+      "medicationP3": "Biologics",
+      "medicationP4": "Opinions Now",
+      "medicationP5": "My Medication Information",
+      "medicationP6": "Opinion Review",
+      "forms": {
+        "notSafe": "Not Safe",
+        "safe": "Safe",
+        "notConcerned": "Not Concerned",
+        "concerned": "Concerned",
+        "continue": "Continue",
+        "discontinue": "Discontinue",
+        "notImportant": "Not Important",
+        "important": "Important"
+      }
+    },
+    "forms": {
       "pregnant": "I'm pregnant",
       "preconception": "I'm preconception",
       "ulcerative": "ulcerative COLITIS",
@@ -22,9 +70,6 @@
         "yes": "Yes",
         "no": "No",
         "aminosalicylates": "Aminosalicylates",
-        "5-aminosalicylates": "5-aminosalicylates",
-        "immunomodulator": "Immunomodulator",
-        "calcineurinInhibitor": "Calcineurin Inhibitor",
         "sulfasalazine": "Sulfasalazine",
         "otherAminosalicylates": "Other Aminosalicylates, including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics",
         "methotrexate": "Methotrexate",
@@ -36,48 +81,102 @@
         "ustekinumab": "Ustekinumab (Stelara®)",
         "smallMolecules": "SMALL MOLECULES (including Jak Kinase Inhibitors), Tofacitinib (Xeljanz®)",
         "antibiotics": "Antibiotics",
-        "cyclosporin": "Cyclosporin",
         "ciprofloxacin": "Ciprofloxacin",
-        "metronadizole": "Metronadizole",
         "metronidazole": "Metronidazole",
-        "penicillin": "Penicillin based",
         "vancomycin": "Vancomycin",
-        "mesalamine": "Mesalamine",
-        "imuran": "Imuran",
-        "purinethol": "Purinethol",
-        "tofacitinib": "Tofacitinib (Xeljanz®)",
-        "steriods": "Steroids",
-        "corticosteroids": "Cortiscosteroids",
-        "prednisone": "Prednisone/Prednisolone",
-        "prednisolone": "Prednisolone",
-        "methylprednisolone": "Methylprednisolone",
-        "hydrocortisone": "Hydrocortisone",
+        "steriods": "Steriods",
+        "prednisone": "Prednisone",
         "budesonide": "Budesonide (Entocort®);  Budesonide MMX (Cortiment®)",
-        "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone"
+        "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone",
+        "test": "test",
+        "test2": "test"
       }
+    },
+    "definitions": {
+      "jpouch": "JPouch",
+      "preconception": "Preconception",
+      "crohns": "Crohns Disease",
+      "ulcerative": "Ulcerative Colitis",
+      "colestomy": "Colostomy/Ileostomy",
+      "colectomy": "Colectomy",
+      "ileal": "Ileal/Ileocolonic Resection",
+      "perianal": "Perianal Disease",
+      "definedTerm": "Example Term"
+    },
+    "feedback": {
+      "option1": "Likelihood of my baby being exposed to any drug during in utero development.",
+      "option2": "Likelihood my baby being born with detectable drug in their bloodstream?",
+      "option3": "The possible need to start steroids during pregnancy due to active IBD",
+      "option4": "The risk my IBD will flare during pregnancy",
+      "option5": "The possible need to start or restart a stopped medication due to active IBD",
+      "option6": "Exposing my baby to a medication for which we only have limited information on safety for pregnancy (for example, small number of patients who have received the medication in pregnancy or short duration of follow up of infants)"
     },
     "medicationSelection": {
       "aminosalicylatessulfasalazine": {
         "pregnant": {
-          "medications": "Inhibits folate synthesis. Women taking this medication should also be taking higher folic acid supplements (2 – 3 mg per day) throughout pregnancy"
+          "medications": "Inhibits folate synthesis. Women taking this medication should also be taking folic acid supplements (2 – 3 mg per day) throughout pregnancy"
         },
         "preconception": {
-          "medications": "Inhibits folate synthesis. Women taking this medication who are hoping to conceive should also be taking higher folic acid supplements (2 – 3 mg per day)"
+          "medications": "Inhibits folate synthesis. Women taking this medication who are hoping to conceive should also be taking folic acid supplements (2 – 3 mg per day)"
         },
-        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.",
+        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhea as you will need to find another therapy.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
       "aminosalicylatesotherAminosalicylates": {
         "pregnant": {
-          "medications": "No known concerns"
+          "medications": "If you are taking Asacol® and are pregnant, it is not recommended to switch to another 5 ASA as there is a small risk of flaring with switching, even if it does have the DBP coating."
         },
         "preconception": {
-          "medications": "No known concerns"
+          "medications": "Some formulations of Asacol® contain a chemical in the coating (DBP) that may pose a very small risk to the fetal development. If your prescribed Asacol (check with your gastroenterologist or pharmacist) does have this coating, consider switching to another 5 ASA."
         },
-        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.",
+        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhoea as you will need to find another therapy.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
+      },
+      "corticosteroidsbudesonide": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnancy": {
+          "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
+        },
+        "breastfeeding": "",
+        "vaccinations": "",
+        "infections": ""
+      },
+      "corticosteroidsprednisone": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnancy": {
+          "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
+        },
+        "breastfeeding": "At doses &gt;20mg, delay feeding 3-4 h after dose",
+        "vaccinations": "",
+        "infections": ""
+      },
+      "corticosteroidsmethylprednisolone": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnancy": {
+          "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
+        },
+        "breastfeeding": "",
+        "vaccinations": "",
+        "infections": ""
+      },
+      "corticosteroidshydrocortisone": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnancy": {
+          "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
+        },
+        "breastfeeding": "",
+        "vaccinations": "",
+        "infections": ""
       },
       "methotrexateyes": {
         "pregnant": {
@@ -87,8 +186,8 @@
           "medications": "Methotrexate can be harmful in pregnancy causing embryo malformation and fetal death. Discontinue use at least 3 months prior to trying to conceive (women and men)."
         },
         "breastfeeding": "Most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given, however most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "infections": "No known impact on infant risk, however most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered."
+        "vaccinations": "",
+        "infections": ""
       },
       "allopurinolyes": {
         "pregnant": {
@@ -98,12 +197,12 @@
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the safety of use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, it is suggested you discuss with your gastroenterologist potentially revising the use of allopurinol prior to becoming pregnant."
         },
         "breastfeeding": "Exclusively breastfed infants should be monitored, including observation for allergic reactions (such as rash) and periodic blood count (CBC).",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
+        "vaccinations": "",
+        "infections": ""
       },
       "thiopurinesIncludingyes": {
         "pregnant": {
-          "medications": "Monitor maternal blood counts (CBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis)."
+          "medications": "Monitor maternal blood counts (CBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis). Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth."
         },
         "preconception": {
           "medications": "No known concerns."
@@ -117,43 +216,43 @@
           "medications": "When anti-TNFs are used in combination with immunosuppressant medications, there may be a small increased risk of infection in the baby from birth to 12 months."
         },
         "preconception": {
-          "medications": "There are no known concerns regarding fertility and conceiving while on an anti-TNF"
+          "medications": "No known concerns."
         },
         "breastfeeding": "Very little anti-TNF medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
-        "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given.",
+        "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given.",
         "infections": "When thiopurines have been used in combination with anti-TNFs, there has been identification of a small increased risk of common infections in the infant, such as ear and upper respiratory tract infections within the first 12 months of life."
       },
       "biologicsvedolizumab": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "breastfeeding": "Very little Vedolizumab is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
-        "vaccinations": "Babies exposed to vedolizumab in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given",
-        "infections": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
+        "vaccinations": "Given there is limited known information about vedolizumab in pregnancy, it is also recommended that babies exposed to vedolizumab in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given",
+        "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
       },
       "biologicsustekinumab": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "breastfeeding": "Very little ustekinumab is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
-        "vaccinations": "Babies exposed to ustekinumab in utero should NOT receive LIVE vaccines for the first 12 months of life. All other vaccinations should be given",
-        "infections": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
+        "vaccinations": "Babies exposed to ustekinumab in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given",
+        "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
       },
       "smallMoleculesyes": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. "
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. "
         },
         "breastfeeding": "No information is available on the clinical use of tofacitinib during breastfeeding.",
-        "vaccinations": "Insufficient information is available at the time this resource was created to advise regarding vaccination and exposure to tofacitinib.",
+        "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
         "infections": "There was minimal information available at the time this resource was created."
       },
       "antibioticsciprofloxacin": {
@@ -191,10 +290,10 @@
       },
       "steriodsprednisone": {
         "pregnant": {
-          "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
+          "medications": "Associated risk include gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking the medication.  Suggest discussion with your obstetrician and gastroenterologist."
         },
         "preconception": {
-          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive. "
+          "medications": "No known concerns."
         },
         "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
@@ -205,7 +304,7 @@
           "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
         },
         "preconception": {
-          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive. "
+          "medications": "No known concerns."
         },
         "breastfeeding": "No known concerns",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
@@ -216,81 +315,23 @@
           "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "preconception": {
-          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive. "
+          "medications": ""
         },
         "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
+        "vaccinations": "",
+        "infections": ""
+      },
+      "testtest2": {
+        "pregnant": {
+          "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
+        },
+        "preconception": {
+          "medications": ""
+        },
+        "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
+        "vaccinations": "",
+        "infections": ""
       }
-    },
-    "introduction": "Introduction",
-    "essentialInfo": "Essential Info",
-    "activeDisease": "Disease Activity",
-    "postpartum": "Postpartum",
-    "postpartum_mum": "Post-partum Mum",
-    "postpartum_baby": "Post-partum Baby",
-    "questions": "Tell Us About You",
-    "quiz_for_you": "Questions for You",
-    "pregnancy": "Pregnancy",
-    "disease": "Disease",
-    "value_survey": "Values Survey",
-    "surgery": "Surgery",
-    "yourSummary": "Your Summary",
-    "preconception": "Preconception",
-    "fertility": "Fertility",
-    "contraception": "Contraception",
-    "pre_medications": "Medications",
-    "inheritance": "Inheritance",
-    "surgeries": "Surgery",
-    "medication": "Medication List",
-    "delivery": "Delivery",
-    "preg_medications": "Medications",
-    "breastfeeding": "Feeding Your Infant",
-    "post_medications": "Medications",
-    "nutrition": "Nutrition",
-    "substance_use": "Substance Use",
-    "infants": "Infants",
-    "infant_health": "Infant Health and Vaccinations",
-    "opinion_review": "Opinion Review",
-    "summary": "Your Summary",
-    "summary_title": "Summary",
-
-    "internalPages": {
-      "medicationP1": "My Medication List",
-      "medicationP2": "Medications - MTX",
-      "medicationP3": "Biologics",
-      "medicationP4": "Opinions Now",
-      "medicationP5": "My Medication Information",
-      "medicationP6": "Opinion Review",
-      "forms": {
-        "notSafe": "Not Safe",
-        "safe": "Safe",
-        "notConcerned": "Not Concerned",
-        "concerned": "Concerned",
-        "continue": "Continue",
-        "discontinue": "Discontinue",
-        "notImportant": "Not Important",
-        "important": "Important"
-      }
-    },
-    "definitions": {
-      "jpouch": "JPouch",
-      "preconception": "Preconception",
-      "crohns": "Crohns Disease",
-      "ulcerative": "Ulcerative Colitis",
-      "colestomy": "Colostomy/Ileostomy",
-      "colectomy": "Colectomy",
-      "ileal": "Ileal/Ileocolonic Resection",
-      "perianal": "Perianal Disease",
-      "definedTerm": "Example Term"
-    },
-    "feedback": {
-      "option1": "Likelihood of my baby being exposed to any drug during in utero development.",
-      "option2": "Likelihood my baby being born with detectable drug in their bloodstream?",
-      "option3": "The possible need to start steroids during pregnancy due to active IBD",
-      "option4": "The risk my IBD will flare during pregnancy",
-      "option5": "The possible need to start or restart a stopped medication due to active IBD",
-      "option6": "Exposing my baby to a medication for which we only have limited information on safety for pregnancy (for example, small number of patients who have received the medication in pregnancy or short duration of follow up of infants)"
     }
   }
 }
