@@ -73,6 +73,7 @@
         "5-aminosalicylates": "5-aminosalicylates",
         "sulfasalazine": "Sulfasalazine",
         "immunomodulator": "Immunomodulator",
+        "corticosteroids": "Corticosteroids",
         "calcineurinInhibitor": "Calcineurin Inhibitor",
         "otherAminosalicylates": "Other Aminosalicylates, including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics",
         "methotrexate": "Methotrexate",
@@ -88,6 +89,7 @@
         "metronidazole": "Metronidazole",
         "vancomycin": "Vancomycin",
         "mesalamine": "Mesalamine",
+        "cyclosporin": "Cyclosporin",
         "imuran": "Imuran",
         "purinethol": "Purinethol",
         "tofacitinib": "Tofacitinib (Xeljanz®)",
@@ -298,7 +300,7 @@
         "vaccinations": "Babies exposed to ustekinumab in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given",
         "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
       },
-        "smallMoleculesTofacitinib": {
+        "smallMoleculestofacitinib": {
         "pregnant": {
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
@@ -320,7 +322,7 @@
         "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
         "infections": "There was minimal information available at the time this resource was created."
       },
-      "calcineurinInhibitorCyclosporin": {
+      "calcineurinInhibitorcyclosporin": {
         "pregnant": {
           "medications": ""
         },
