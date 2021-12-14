@@ -150,7 +150,7 @@
         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
-        "pregnancy": {
+        "pregnant": {
           "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
         },
         "breastfeeding": "",
@@ -161,7 +161,7 @@
         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
-        "pregnancy": {
+        "pregnant": {
           "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
         "breastfeeding": "At doses &gt;20mg, delay feeding 3-4 h after dose",
