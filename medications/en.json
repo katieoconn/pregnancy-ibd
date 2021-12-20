@@ -80,25 +80,26 @@
         "allopurinol": "Allopurinol",
         "thiopurinesIncluding": "THIOPURINES including 6-mercaptopurine (Purinethol®) and Azathioprine (Imuran®)",
         "biologics": "Biologics",
-        "antiTnfs": "Anti-TNFs, including Infliximab (Remicade®,  Inflectra®, Remsima®), Adalimumab (Humira®), Golimumab (Simponi®)",
-        "vedolizumab": "Vedolizumab (Entyvio®)",
-        "ustekinumab": "Ustekinumab (Stelara®)",
+        "antiTnfs": "Anti TNF: Remicade® (Infliximab), Inflectra® (Infliximab), Humira®(Adalimumab), Simponi® (Golimumab)",
+        "vedolizumab": "Entyvio® (Vedolizumab)",
+        "ustekinumab": "Stelara® (Ustekinumab)",
         "smallMolecules": "Small molecule",
         "antibiotics": "Antibiotics",
         "ciprofloxacin": "Ciprofloxacin",
         "metronidazole": "Metronidazole",
         "vancomycin": "Vancomycin",
-        "mesalamine": "Mesalamine",
+        "mesalamine": "Mesalamine including Pentasa®, Asacol®, Salofalk®, Mezavant®, and generics",
         "cyclosporin": "Cyclosporin",
-        "imuran": "Imuran",
-        "purinethol": "Purinethol",
+        "penicillin": "Pencillin based",
+        "imuran": "Imuran® (Azathioprine)",
+        "purinethol": " Purinethol® (6-mercaptopurine)",
         "tofacitinib": "Tofacitinib (Xeljanz®)",
         "steriods": "Steroids",
         "prednisone": "Prednisone/Prednisolone",
         "prednisolone": "Prednisolone",
         "methylprednisolone": "Methylprednisolone",
         "hydrocortisone": "Hydrocortisone",
-        "budesonide": "Budesonide (Entocort®);  Budesonide MMX (Cortiment®)",
+        "budesonide": "Budesonide",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone",
         "test": "test",
         "test2": "test"
@@ -145,6 +146,28 @@
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhoea as you will need to find another therapy.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
+      },
+      "5-aminosalicylatessulfasalazine": {
+        "pregnant": {
+          "medications": "Inhibits folate synthesis. Women taking this medication should also be taking folic acid supplements (2 – 3 mg per day) throughout pregnancy"
+        },
+        "preconception": {
+          "medications": "Inhibits folate synthesis. Women taking this medication who are hoping to conceive should also be taking folic acid supplements (2 – 3 mg per day)"
+        },
+        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhea as you will need to find another therapy.",
+        "vaccinations": "",
+        "infections": ""
+      },
+      "5-aminosalicylatesmesalamine": {
+        "pregnant": {
+          "medications": "No known concerns."
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhoea as you will need to find another therapy.",
+        "vaccinations": "",
+        "infections": ""
       },
       "corticosteroidsbudesonide": {
         "preconception": {
@@ -223,7 +246,7 @@
         "vaccinations": "",
         "infections": ""
       },
-      "methotrexateyes": {
+        "methotrexateyes": {
         "pregnant": {
           "medications": "If you become pregnant while taking methotrexate, stop taking the methotrexate immediately and schedule an urgent appointment with your doctor or obstetric care provider. Notify your gastroenterologist as well, as they may have to find another medication"
         },
@@ -245,7 +268,7 @@
         "vaccinations": "",
         "infections": ""
       },
-      "allopurinolyes": {
+        "allopurinolyes": {
         "pregnant": {
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, stopping allopurinol in pregnancy is not advised prior to consultation with your gastroenterologist."
         },
@@ -256,7 +279,7 @@
         "vaccinations": "",
         "infections": ""
       },
-      "thiopurinesIncludingyes": {
+        "thiopurinesIncludingyes": {
         "pregnant": {
           "medications": "Monitor maternal blood counts (CBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis). Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth."
         },
@@ -286,8 +309,8 @@
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "breastfeeding": "At this time, there is not enough data on vedolizumab. They are very similar to anti-TNF medications and it is likely that there are also only small amounts in breast milk. Women should discuss whether or not to continue taking these medications while they are breastfeeding with their doctors.",
-        "vaccinations": "Given there is limited known information about vedolizumab in pregnancy, it is also recommended that babies exposed to vedolizumab in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given",
-        "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
+        "vaccinations": "",
+        "infections": ""
       },
       "biologicsustekinumab": {
         "pregnant": {
@@ -307,11 +330,11 @@
         "preconception": {
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. "
         },
-        "breastfeeding": "No information is available on the clinical use of tofacitinib during breastfeeding.",
-        "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
-        "infections": "There was minimal information available at the time this resource was created."
+        "breastfeeding": "",
+        "vaccinations": "",
+        "infections": ""
       },
-      "smallMoleculesyes": {
+        "smallMoleculesyes": {
         "pregnant": {
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
@@ -341,10 +364,21 @@
           "medications": "No known concerns."
         },
         "breastfeeding": "Delay feeding 3-4 h after dose",
+        "vaccinations": "",
+        "infections": ""
+      },
+       "antibioticsmetronidazole": {
+        "pregnant": {
+          "medications": "No known concerns."
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "No known concerns.",
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
-      "antibioticsmetronidazole": {
+      "antibioticspenicillin": {
         "pregnant": {
           "medications": "No known concerns."
         },
