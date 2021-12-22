@@ -93,7 +93,7 @@
         "penicillin": "Pencillin based",
         "imuran": "Imuran® (Azathioprine)",
         "purinethol": " Purinethol® (6-mercaptopurine)",
-        "tofacitinib": "Tofacitinib (Xeljanz®)",
+        "tofacitinib": "Tofacitinib",
         "steriods": "Steroids",
         "prednisone": "Prednisone/Prednisolone",
         "methylprednisolone": "Methylprednisolone",
@@ -132,8 +132,8 @@
           "medications": "Inhibits folate synthesis. Women taking this medication who are hoping to conceive should also be taking folic acid supplements (2 – 3 mg per day)"
         },
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhea as you will need to find another therapy.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
+        "vaccinations": "",
+        "infections": ""
       },
       "aminosalicylatesotherAminosalicylates": {
         "pregnant": {
@@ -186,7 +186,7 @@
         "pregnant": {
           "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
-        "breastfeeding": "At doses &gt;20mg, delay feeding 3-4 h after dose",
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
         "vaccinations": "",
         "infections": ""
       },
@@ -294,10 +294,10 @@
           "medications": "Anti-TNFs are considered safe to use throughout pregnancy."
         },
         "preconception": {
-          "medications": "There are no known concerns regarding fertility and conceiving while on an anti-TNF."
+          "medications": "There are no known concerns regarding fertility and conceiving while on an anti-TNF"
         },
         "breastfeeding": "",
-        "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given.",
+        "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 6 to 9 months of life. All other non-live vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live) Very little anti-TNF medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
         "infections": ""
       },
       "biologicsvedolizumab": {
@@ -305,7 +305,7 @@
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
+          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs. "
         },
         "breastfeeding": "At this time, there is not enough data on vedolizumab. They are very similar to anti-TNF medications and it is likely that there are also only small amounts in breast milk. Women should discuss whether or not to continue taking these medications while they are breastfeeding with their doctors.",
         "vaccinations": "",
@@ -319,15 +319,15 @@
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "breastfeeding": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs.",
-        "vaccinations": "Babies exposed to ustekinumab in utero should NOT receive LIVE vaccines for the first 9 to 12 months of life. All other vaccinations should be given",
-        "infections": "There was limited information available at the time this resource was created. However from what is available, no new concerns have been identified when compared with anti-TNFs."
+        "vaccinations": "",
+        "infections": ""
       },
         "smallMoleculestofacitinib": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. "
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
         "breastfeeding": "",
         "vaccinations": "",
@@ -368,25 +368,25 @@
       },
        "antibioticsmetronidazole": {
         "pregnant": {
-          "medications": "No known concerns."
+          "medications": ""
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "No known concerns.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
+        "breastfeeding": "",
+        "vaccinations": "",
+        "infections": ""
       },
       "antibioticspenicillin": {
         "pregnant": {
-          "medications": "No known concerns."
+          "medications": ""
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "No known concerns.",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
-        "infections": "No known impact on infant risk"
+        "breastfeeding": "",
+        "vaccinations": "",
+        "infections": ""
       },
       "antibioticsvancomycin": {
         "pregnant": {
