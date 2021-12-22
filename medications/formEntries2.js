@@ -1,6 +1,6 @@
 [{ 
  "title": "corticosteroids",
-  "options": ["no", "budesonide", "prednisone", "prednisolone", "methylprednisolone", "hydrocortisone"]
+  "options": ["no", "budesonide", "prednisone", "methylprednisolone", "hydrocortisone"]
 },
 {
   "title": "5-aminosalicylates",
@@ -11,15 +11,11 @@
   "options": ["no", "imuran", "purinethol", "methotrexate", "allopurinol"]
 },
 {
-  "title": "thiopurinesIncluding",
-  "options": ["no", "yes"]
-},
-{
   "title": "biologics",
   "options": ["no", "antiTnfs", "ustekinumab", "vedolizumab"]
 },
 {
-  "title": "smallMolecules",
+  "title": "smallMolecule",
   "options": ["no", "tofacitinib"]
 },
   {
@@ -28,9 +24,5 @@
 },
 {
   "title": "antibiotics",
-  "options": ["no", "ciprofloxacin", "metronidazole", "vancomycin"]
-},
-{
-  "title": "steriods",
-  "options": ["no", "prednisone", "budesonide", "intravenous"]
+  "options": ["no", "ciprofloxacin", "metronidazole", "penicillin"]
 }]
