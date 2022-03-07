@@ -176,9 +176,9 @@
         "pregnant": {
           "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "corticosteroidsprednisone": {
         "preconception": {
@@ -188,8 +188,8 @@
           "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
         "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "corticosteroidsmethylprednisolone": {
         "preconception": {
@@ -198,9 +198,9 @@
         "pregnant": {
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "corticosteroidshydrocortisone": {
         "preconception": {
@@ -209,9 +209,9 @@
         "pregnant": {
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "immunomodulatorimuran": {
         "pregnant": {
@@ -221,8 +221,8 @@
           "medications": "No known concerns."
         },
         "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "immunomodulatorpurinethol": {
         "pregnant": {
@@ -232,8 +232,8 @@
           "medications": "No known concerns."
         },
         "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "immunomodulatormethotrexate": {
         "pregnant": {
@@ -243,8 +243,8 @@
           "medications": "Methotrexate can be harmful in pregnancy causing embryo malformation and fetal death. Discontinue use at least 3 months prior to trying to conceive (women and men)."
         },
         "breastfeeding": "Most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "methotrexateyes": {
         "pregnant": {
@@ -254,8 +254,8 @@
           "medications": "Methotrexate can be harmful in pregnancy causing embryo malformation and fetal death. Discontinue use at least 3 months prior to trying to conceive (women and men)."
         },
         "breastfeeding": "Most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
        "immunomodulatorallopurinol": {
         "pregnant": {
@@ -264,9 +264,9 @@
         "preconception": {
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the safety of use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, it is suggested you discuss with your gastroenterologist potentially revising the use of allopurinol prior to becoming pregnant."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "allopurinolyes": {
         "pregnant": {
@@ -276,8 +276,8 @@
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the safety of use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, it is suggested you discuss with your gastroenterologist potentially revising the use of allopurinol prior to becoming pregnant."
         },
         "breastfeeding": "Exclusively breastfed infants should be monitored, including observation for allergic reactions (such as rash) and periodic blood count (CBC).",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "thiopurinesIncludingyes": {
         "pregnant": {
@@ -297,9 +297,9 @@
         "preconception": {
           "medications": "There are no known concerns regarding fertility and conceiving while on an anti-TNF"
         },
-        "breastfeeding": "",
+        "breastfeeding": "Breastfeeding - None",
         "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 6 to 9 months of life. All other non-live vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live) Very little anti-TNF medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
-        "infections": ""
+        "infections": "Infections - None"
       },
       "biologicsvedolizumab": {
         "pregnant": {
@@ -309,8 +309,8 @@
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs. "
         },
         "breastfeeding": "At this time, there is not enough data on vedolizumab. They are very similar to anti-TNF medications and it is likely that there are also only small amounts in breast milk. Women should discuss whether or not to continue taking these medications while they are breastfeeding with their doctors.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "biologicsustekinumab": {
         "pregnant": {
@@ -320,8 +320,8 @@
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
         },
         "breastfeeding": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "smallMoleculestofacitinib": {
         "pregnant": {
@@ -330,9 +330,9 @@
         "preconception": {
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
         "smallMoleculesyes": {
         "pregnant": {
@@ -347,14 +347,14 @@
       },
       "calcineurinInhibitorcyclosporin": {
         "pregnant": {
-          "medications": ""
+          "medications": "Pregnant - None"
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "antibioticsciprofloxacin": {
         "pregnant": {
@@ -364,30 +364,30 @@
           "medications": "No known concerns."
         },
         "breastfeeding": "Delay feeding 3-4 h after dose",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
        "antibioticsmetronidazole": {
         "pregnant": {
-          "medications": ""
+          "medications": "Pregnant - None"
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "antibioticspenicillin": {
         "pregnant": {
-          "medications": ""
+          "medications": "Pregnant - None"
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "",
-        "vaccinations": "",
-        "infections": ""
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "antibioticsvancomycin": {
         "pregnant": {
@@ -427,22 +427,22 @@
           "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "preconception": {
-          "medications": ""
+          "medications": "Preconception - None"
         },
         "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       },
       "testtest2": {
         "pregnant": {
           "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "preconception": {
-          "medications": ""
+          "medications": "Preconception - None"
         },
         "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "",
-        "infections": ""
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       }
     }
   }
