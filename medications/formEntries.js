@@ -1,17 +1,6 @@
 [{
-  "title": "NONE, I am not on any medications for IBD",
-},
-{
-  "title": "corticosteroids",
-  "options": ["no", "budesonide", "Prednisone/prednisolone", "Methylprednisolone","Hydrocortisone"]
-},  
-{
-  "title": "5-Aminosalicylates",
-  "options": ["no", "Pentasa®, Asacol®, Salofalk®, Mesavant®, and generics"]
-},
-{
-  "title": "sulfasalazine",
-  "options": ["no", "yes"]
+  "title": "aminosalicylates",
+  "options": ["no", "sulfasalazine", "otherAminosalicylates"]
 },
 {
   "title": "methotrexate",
@@ -41,3 +30,4 @@
   "title": "steriods",
   "options": ["no", "prednisone", "budesonide", "intravenous"]
 }]
+
