@@ -19,7 +19,7 @@
   "options": ["no", "antiTnfs", "vedolizumab", "ustekinumab"]
 },
 {
-  "title": "smallMolecules",
+  "title": "JAK Inhibitor",
   "options": ["no", "yes"]
 },
 {
