@@ -6,6 +6,10 @@
 "title": "budesonide",
  "options": ["no", "yes"]
 },
+ { 
+"title": "prednisone",
+ "options": ["no", "yes"]
+},
 {
   "title": "5-aminosalicylates",
   "options": ["no", "mesalamine", "sulfasalazine"]
