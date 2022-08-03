@@ -2,6 +2,10 @@
  "title": "corticosteroids",
   "options": ["no", "budesonide", "prednisone", "methylprednisolone", "hydrocortisone"]
 },
+{ 
+"title": "budesonide",
+ "options": ["no", "yes"]
+},
 {
   "title": "5-aminosalicylates",
   "options": ["no", "mesalamine", "sulfasalazine"]
