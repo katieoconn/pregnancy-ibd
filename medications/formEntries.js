@@ -19,7 +19,7 @@
   "options": ["no", "antiTnfs", "vedolizumab", "ustekinumab"]
 },
 {
-  "title": "small molecules",
+  "title": "smallmolecules",
   "options": ["no", "yes"]
 },
 {
