@@ -23,7 +23,7 @@
   "options": ["no", "antiTnfs", "ustekinumab", "vedolizumab"]
 },
 {
-  "title": "small molecules",
+  "title": "smallmolecules",
   "options": ["no", "tofacitinib"]
 },
   {
