@@ -443,6 +443,17 @@
         "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
+      },
+       "prednisoneyes": {
+        "pregnant": {
+          "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
+        },
+        "preconception": {
+          "medications": "Preconception - None"
+        },
+        "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       }
     }
   }
