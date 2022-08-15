@@ -85,7 +85,7 @@
 {
   "title": "antibiotics",
   "options": ["no", "ciprofloxacin", "metronidazole", "penicillin"]
-}
+},
 { 
 "title": "ciprofloxacin",
  "options": ["no", "yes"]
