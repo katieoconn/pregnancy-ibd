@@ -59,6 +59,18 @@
  "options": ["no", "yes"]
 },
 { 
+ "title": "Infliximab (Remicade®, Inflectra®, Remsima®, Avsola®, other infliximab biosimilar)",
+ "options": ["no", "yes"]
+},
+{ 
+ "title": "Humira®(Adalimumab)",
+ "options": ["no", "yes"]
+},
+{ 
+ "title": "Simponi® (Golimumab)",
+ "options": ["no", "yes"]
+},
+{ 
 "title": "ustekinumab",
  "options": ["no", "yes"]
 },
