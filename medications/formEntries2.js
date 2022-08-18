@@ -59,15 +59,15 @@
  "options": ["no", "yes"]
 },
 { 
- "title": "Infliximab(Remicade®,Inflectra®,Remsima®,Avsola®)",
+ "title": "Infliximab(Remicade,Inflectra,Remsima,Avsola)",
  "options": ["no", "yes"]
 },
 { 
- "title": "Humira®(Adalimumab)",
+ "title": "Humira(Adalimumab)",
  "options": ["no", "yes"]
 },
 { 
- "title": "Simponi®(Golimumab)",
+ "title": "Simponi(Golimumab)",
  "options": ["no", "yes"]
 },
 { 
