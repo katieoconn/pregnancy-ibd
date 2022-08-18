@@ -59,7 +59,7 @@
  "options": ["no", "yes"]
 },
 { 
- "title": "Infliximab (Remicade®, Inflectra®, Remsima®, Avsola®, other infliximab biosimilar)",
+ "title": "Infliximab(Remicade®,Inflectra®,Remsima®,Avsola®)",
  "options": ["no", "yes"]
 },
 { 
@@ -67,7 +67,7 @@
  "options": ["no", "yes"]
 },
 { 
- "title": "Simponi® (Golimumab)",
+ "title": "Simponi®(Golimumab)",
  "options": ["no", "yes"]
 },
 { 
