@@ -246,6 +246,28 @@
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
       },
+        "imuranyes": {
+        "pregnant": {
+          "medications": "Monitor maternal blood counts (CBC/FBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis.)"
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+        "purinetholyes": {
+        "pregnant": {
+          "medications": "Monitor maternal blood counts (CBC/FBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis.)"
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
         "immunomodulatormethotrexate": {
         "pregnant": {
           "medications": "If you become pregnant while taking methotrexate, stop taking the methotrexate immediately and schedule an urgent appointment with your doctor or obstetric care provider. Notify your gastroenterologist as well, as they may have to find another medication."
