@@ -465,6 +465,28 @@
         "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
+          },
+      "methylprednisoloneyes": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnant": {
+          "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
+        },
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+      "hydrocortisoneyes": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnant": {
+          "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
+        },
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
       }
     }
   }
