@@ -1,6 +1,6 @@
 {
   preconception: {
-    "corticosteroidsbudesonide": "safe", "5-aminosalicylatesmesalamine": "safe",  "5-aminosalicylatessulfasalazine": "safe", "immunomodulatorimuran": "safe", "immunomodulatorpurinethol": "safe", "biologicsantiTnfs": "safe", "calcineurinInhibitorcyclosporin": "safe", "antibioticsciprofloxacin": "safe", "antibioticsmetronidazole": "safe", "antibioticspenicillin": "safe", "immunomodulatormethotrexate": "unsafe", "smallMoleculestofacitinib": "unsafe",
+    "corticosteroidsbudesonide": "safe", "budesonide": "safe", "5-aminosalicylatesmesalamine": "safe",  "5-aminosalicylatessulfasalazine": "safe", "immunomodulatorimuran": "safe", "immunomodulatorpurinethol": "safe", "biologicsantiTnfs": "safe", "calcineurinInhibitorcyclosporin": "safe", "antibioticsciprofloxacin": "safe", "antibioticsmetronidazole": "safe", "antibioticspenicillin": "safe", "immunomodulatormethotrexate": "unsafe", "smallMoleculestofacitinib": "unsafe",
     "biologicsustekinumab": "unknown", "biologicsvedolizumab": "unknown", "corticosteroidsprednisone": "caution", "corticosteroidsmethylprednisolone": "caution", "corticosteroidshydrocortisone": "caution", "immunomodulatorallopurinol": "caution"
   },
   pregnant: {
