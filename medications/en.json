@@ -433,6 +433,61 @@
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "No known impact on infant risk"
       },
+      "cyclosporinyes": {
+        "pregnant": {
+          "medications": "Pregnant - None"
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+      "ciprofloxacinyes": {
+        "pregnant": {
+          "medications": "Very small risk of tendon damage with ciprofloxacin if used in first trimester"
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "Delay feeding 3-4 h after dose",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+       "metronidazoleyes": {
+        "pregnant": {
+          "medications": "Pregnant - None"
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+      "penicillinyes": {
+        "pregnant": {
+          "medications": "Pregnant - None"
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+      "vancomycinyes": {
+        "pregnant": {
+          "medications": "No known concerns."
+        },
+        "preconception": {
+          "medications": "No known concerns."
+        },
+        "breastfeeding": "No known concerns.",
+        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
+        "infections": "No known impact on infant risk"
+      },
       "steriodsprednisone": {
         "pregnant": {
           "medications": "Associated risk include gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking the medication.  Suggest discussion with your obstetrician and gastroenterologist."
