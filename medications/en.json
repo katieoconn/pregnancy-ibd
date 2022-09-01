@@ -203,10 +203,10 @@
         "infections": "Infections - None"
       },
       "corticosteroidsmethylprednisolone": {
-        "preconception": {
+         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
-        "pregnant": {
+        "pregnant":{
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "breastfeeding": "Breastfeeding - None",
@@ -456,21 +456,21 @@
         "infections": "Infections - None"
       },
        "prednisoneyes": {
-        "pregnant": {
-          "medications": "Preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
-        },
-        "preconception": {
-          "medications": "Preconception - None"
-        },
-        "breastfeeding": "Limited transfer of methylprednisolone into breastmilk; to minimise exposure, delay feeding 2 to 4 hours after dose. There is no data to support hydrocortisone use.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
-          },
-      "methylprednisoloneyes": {
         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
         "pregnant": {
+          "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
+        },
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
+      "methylprednisoloneyes": {
+         "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnant":{
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
         "breastfeeding": "Breastfeeding - None",
@@ -478,7 +478,7 @@
         "infections": "Infections - None"
       },
       "hydrocortisoneyes": {
-        "preconception": {
+          "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
         },
         "pregnant": {
