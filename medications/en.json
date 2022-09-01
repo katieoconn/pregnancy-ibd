@@ -180,6 +180,17 @@
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
       },
+       "budesonide": {
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "pregnant": {
+          "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
+        },
+        "breastfeeding": "Breastfeeding - None",
+        "vaccinations": "Vaccinations - None",
+        "infections": "Infections - None"
+      },
       "corticosteroidsprednisone": {
         "preconception": {
           "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
