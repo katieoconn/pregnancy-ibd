@@ -58,7 +58,7 @@
 "title": "antiTnfs",
  "options": ["no", "yes"]
 },
-{ 
+{
 "title": "ustekinumab",
  "options": ["no", "yes"]
 },
