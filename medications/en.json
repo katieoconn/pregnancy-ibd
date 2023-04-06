@@ -323,7 +323,7 @@
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "When thiopurines have been used in combination with anti-TNFs during pregnancy, there has been identification of a small increased risk of common infections in the infant, such as ear and upper respiratory tract infections within the first 12 months of life."
       },
-      "biologicsantiTnfsyes": {
+      "biologicsantiTnfs": {
         "pregnant": {
           "medications": "Anti-TNFs are considered safe to use throughout pregnancy."
         },
@@ -334,7 +334,7 @@
         "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 6 to 9 months of life. All other non-live vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live) Very little anti-TNF medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
         "infections": "Infections - None"
       },
-      "biologicsvedolizumabyes": {
+      "biologicsvedolizumab": {
         "pregnant": {
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
         },
@@ -345,7 +345,7 @@
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
       },
-      "biologicsustekinumabyes": {
+      "biologicsustekinumab": {
         "pregnant": {
           "medications": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
         },
