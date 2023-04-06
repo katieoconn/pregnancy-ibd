@@ -324,7 +324,7 @@
         "infections": "When thiopurines have been used in combination with anti-TNFs during pregnancy, there has been identification of a small increased risk of common infections in the infant, such as ear and upper respiratory tract infections within the first 12 months of life."
       },
       "antiTnfsyes": {
-        "pregnant": {
+       "pregnant": {
           "medications": "Anti-TNFs are considered safe to use throughout pregnancy."
         },
         "preconception": {
@@ -335,8 +335,8 @@
         "infections": "Infections - None"
       },
       "vedolizumabyes": {
-        "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
+       "pregnant": {
+         "medications": "There was limited information available at the time this resource was created. However, from what is available, no concerns have been identified."
         },
         "preconception": {
           "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs. "
@@ -345,7 +345,7 @@
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
       },
-      "biologicsustekinumab": {
+      "ustekinumabyes": {
         "pregnant": {
           "medications": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
         },
