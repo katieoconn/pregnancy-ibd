@@ -323,7 +323,7 @@
         "vaccinations": "All usual vaccinations, including live vaccines can be given.",
         "infections": "When thiopurines have been used in combination with anti-TNFs during pregnancy, there has been identification of a small increased risk of common infections in the infant, such as ear and upper respiratory tract infections within the first 12 months of life."
       },
-      "biologicsantiTnfs": {
+      "biologicsantiTnfsyes": {
         "pregnant": {
           "medications": "Anti-TNFs are considered safe to use throughout pregnancy."
         },
