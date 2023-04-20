@@ -14,7 +14,7 @@
 },
 "vaccinations": {
   "corticosteroidsbudesonide": "safe", "budesonideyes": "safe","budesonideno": "", "5-aminosalicylatesmesalamine": "safe", "mesalamineyes": "safe", "mesalamineno": "",  "5-aminosalicylatessulfasalazine": "safe", "sulfasalazineyes": "safe", "sulfasalazineno": "", "immunomodulatorimuran": "safe", "imuranyes": "safe", "imuranno": "", "immunomodulatorpurinethol": "safe", "purinetholyes": "safe", "purinetholno": "", "calcineurinInhibitorcyclosporin": "safe", "cyclosporinyes": "safe", "cyclosporinno": "",
-  "biologicsustekinumab": "unknown", "ustekinumabyes": "unknown", "ustekinumabno": "", "biologicsvedolizumab": "unknown", "vedolizumabyes": "unknown", "vedolizumabno": "", "methotrexateyes": "unsafe", "methotrexateno": "",  "smallMoleculestofacitinib": "unknown", "tofacitinibyes": "unknown", "tofacitinibno": "",
+  "biologicsustekinumab": "unknown", "ustekinumabyes": "unknown", "ustekinumabno": "", "biologicsvedolizumab": "unknown", "vedolizumabyes": "unknown", "vedolizumabno": "", "methotrexateyes": "caution", "methotrexateno": "",  "smallMoleculestofacitinib": "unknown", "tofacitinibyes": "unknown", "tofacitinibno": "",
   "corticosteroidsprednisone": "caution", "prednisoneyes": "caution", "prednisoneno": "", "corticosteroidsmethylprednisolone": "caution",  "methylprednisoloneyes": "caution", "methylprednisoloneno": "", "corticosteroidshydrocortisone": "caution", "hydrocortisoneyes": "caution", "hydrocortisoneno": "", "biologicsantiTnfs": "caution", "antiTnfsyes": "caution",  "antiTnfsno": ""
 },
 "infections": {
