@@ -491,13 +491,13 @@
       },
       "steriodsprednisone": {
         "pregnant": {
-          "medications": "Associated risk include gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking the medication.  Suggest discussion with your obstetrician and gastroenterologist."
+          "medications": "There are associated risks of using steroids in pregnancy such as gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
         "preconception": {
-          "medications": "No known concerns."
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable (non-steroid) maintenance medication for at least 3 months prior to attempting to conceive."
         },
         "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose",
-        "vaccinations": "All usual vaccinations, including live vaccines can be given.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
         "infections": "In the first 4 months of life, there is a potential for small increase in infection"
       },
       "steriodsbudesonide": {
@@ -534,15 +534,15 @@
         "infections": "Infections - None"
       },
        "prednisoneyes": {
-        "preconception": {
-          "medications": "No known concerns. However, it is recommended for you to be in remission on stable maintenance medication for at least 3 months prior to attempting to conceive."
-        },
         "pregnant": {
-          "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
+          "medications": "There are associated risks of using steroids in pregnancy such as gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
-        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "preconception": {
+          "medications": "No known concerns. However, it is recommended for you to be in remission on stable (non-steroid) maintenance medication for at least 3 months prior to attempting to conceive."
+        },
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "In the first 4 months of life, there is a potential for small increase in infection"
       },
       "methylprednisoloneyes": {
          "preconception": {
