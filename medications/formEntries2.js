@@ -3,7 +3,7 @@
  "options": ["no", "yes"]
 },
 { 
-"title": "prednisone/prednisolone",
+"title": "prednisone",
  "options": ["no", "yes"]
 },
 { 
@@ -51,11 +51,11 @@
  "options": ["no", "yes"]
 },
 { 
-"title": "Jak inhibitors",
+"title": "jakinhibitors",
  "options": ["no", "yes"]
 },
  { 
-"title": "S1-P Modulators",
+"title": "S1Pmodulators",
  "options": ["no", "yes"]
 },
 { 
