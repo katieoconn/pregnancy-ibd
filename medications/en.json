@@ -249,14 +249,14 @@
       },
         "imuranyes": {
         "pregnant": {
-          "medications": "Monitor maternal blood counts (CBC/FBC) monthly. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis.)"
+          "medications": "Safe - Regular blood monitoring is recommending during pregnancy, including liver tests and thiopurine metabolites. It is recommended not to start during pregnancy (small risk of drug reaction, including pancreatitis)"
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "The limited number of studies that have been done show that the amount of medication passed through breast milk is in very small amounts and it is acceptable to take while breastfeeding. Given there is one small report of anaemia in an infant, consider checking infant blood count (CBC) at birth.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "Safe in breastfeeding",
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
+        "infections": "No increased risk for infection in baby"
       },
         "purinetholyes": {
         "pregnant": {
@@ -574,8 +574,8 @@
           "medications": "Inhibits folate synthesis. Women taking this medication who are hoping to conceive should also be taking folic acid supplements (2 – 3 mg per day)"
         },
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhea as you will need to find another therapy.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
+        "infections": "No increased risk for infection in baby"
       },
       "mesalamineyes": {
         "pregnant": {
@@ -585,8 +585,8 @@
           "medications": "No known concerns."
         },
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhoea as you will need to find another therapy.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "No increased risk for infection in baby"
       },
         "s1pmodulatorsyes": {
         "pregnant": {
