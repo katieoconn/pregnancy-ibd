@@ -55,7 +55,7 @@
  "options": ["no", "yes"]
 },
 { 
-"title": "S1Pmodulators",
+"title": "s1pmodulators",
  "options": ["no", "yes"]
 },
 { 
