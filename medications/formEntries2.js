@@ -3,7 +3,7 @@
  "options": ["no", "yes"]
 },
 { 
-"title": "prednisone/prednisolone",
+"title": "prednisone",
  "options": ["no", "yes"]
 },
 { 
