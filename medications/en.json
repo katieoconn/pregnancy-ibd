@@ -188,9 +188,9 @@
         "pregnant": {
           "medications": "Limited information regarding use in pregnancy. Use in pregnancy is considered safe from available information."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "Safe in breastfeeding",
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
+        "infections": "No increased risk for infection in baby"
       },
       "corticosteroidsprednisone": {
         "preconception": {
