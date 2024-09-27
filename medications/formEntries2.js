@@ -73,7 +73,7 @@
 { 
 "title": "penicillin",
  "options": ["no", "yes"]
-}
+},
 {
 "title": "s1pmodulators",
 "options": ["no", "yes"]
