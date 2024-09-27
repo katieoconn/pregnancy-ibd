@@ -200,7 +200,7 @@
           "medications": "There is a small risk of cleft palate development associated with steroid use in the first trimester. There is also additional associated risks including gestational diabetes, but the risks of not using steroids with active disease are usually higher than taking steroids to control active disease. Suggest discussion with your obstetrician and gastroenterologist as there may also be the options of steroid sparing medications such as biologics."
         },
         "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
-        "vaccinations": "Vaccinations - None",
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
         "infections": "Infections - None"
       },
       "corticosteroidsmethylprednisolone": {
@@ -210,8 +210,8 @@
         "pregnant":{
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
         "infections": "Infections - None"
       },
       "corticosteroidshydrocortisone": {
@@ -221,8 +221,8 @@
         "pregnant": {
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
         "infections": "Infections - None"
       },
         "immunomodulatorimuran": {
