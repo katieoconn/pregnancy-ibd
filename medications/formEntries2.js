@@ -51,7 +51,11 @@
  "options": ["no", "yes"]
 },
 { 
-"title": "tofacitinib",
+"title": "Jak inhibitors",
+ "options": ["no", "yes"]
+},
+ { 
+"title": "S1-P Modulators",
  "options": ["no", "yes"]
 },
 { 
