@@ -587,6 +587,28 @@
         "breastfeeding": "Passage into the breastmilk in such small amounts that there is minimal concern.\nThere have been rare reports of 5-ASA hypersensitivity in the breast fed infant, leading to bloody diarrhea.  If your baby has bloody diarrhea, take baby to your family physician or pediatrician. Discuss with your GI if it is felt the 5-ASA is causing the bloody diarrhoea as you will need to find another therapy.",
         "vaccinations": "Vaccinations - None",
         "infections": "Infections - None"
+      },
+      "s1pmodulators": {
+        "pregnant": {
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of etrasimod and standard doses of ozanimod have shown harm to the foetus, therefore use in pregnancy (especially the first trimester) is currently not advised unless there are no other medication options to control your IBD. Contact your gastroenterologist if you become pregnant while on an S1-P Modulator"
+        },
+        "preconception": {
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of etrasimod and standard doses of ozanimod have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised unless there are no other medication options to control your IBD. Stopping ozanimod 3 months or etrasimod 4 weeks prior to conception is advised, however it is also important that a switch to a different medication has occurred and remission has been obtained."
+        },
+        "breastfeeding": "S1P inhibitors are detectable in breastmilk. Breastfeeding is not advised if you are prescribed an S1-P inhibitor",
+        "vaccinations": "Babies exposed to S1-P Modulators in utero should NOT receive LIVE vaccines for the first 1 month of life. Inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live)",
+        "infections": "No increased risk for infection in baby."
+      },
+        "s1pmodulatorssyes": {
+        "pregnant": {
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of etrasimod and standard doses of ozanimod have shown harm to the foetus, therefore use in pregnancy (especially the first trimester) is currently not advised unless there are no other medication options to control your IBD. Contact your gastroenterologist if you become pregnant while on an S1-P Modulator"
+        },
+        "preconception": {
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of etrasimod and standard doses of ozanimod have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised unless there are no other medication options to control your IBD. Stopping ozanimod 3 months or etrasimod 4 weeks prior to conception is advised, however it is also important that a switch to a different medication has occurred and remission has been obtained."
+        },
+        "breastfeeding": "S1P inhibitors are detectable in breastmilk. Breastfeeding is not advised if you are prescribed an S1-P inhibitor",
+        "vaccinations": "Babies exposed to S1-P Modulators in utero should NOT receive LIVE vaccines for the first 1 month of life. Inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live)",
+        "infections": "No increased risk for infection in baby."
       }
     }
   }
