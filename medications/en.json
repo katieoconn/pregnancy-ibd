@@ -551,9 +551,9 @@
         "pregnant":{
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "In the first 4 months of life, there is a potential for small increase in infection"
       },
       "hydrocortisoneyes": {
           "preconception": {
@@ -562,9 +562,9 @@
         "pregnant": {
           "medications": "If intravenous steroids are required, preferential use of hydrocortisone is recommended due to how the placenta metabolises steroids."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+       "breastfeeding": "At doses >20 mg, delay feeding 3-4 h after dose",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "In the first 4 months of life, there is a potential for small increase in infection"
       },
        "sulfasalazineyes": {
         "pregnant": {
