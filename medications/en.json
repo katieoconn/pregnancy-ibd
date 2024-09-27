@@ -101,6 +101,7 @@
         "hydrocortisone": "Hydrocortisone",
         "budesonide": "Budesonide",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone",
+        "s1pmodulators": "S1-P modulators (Estrasimod, Ozanimod)",
         "test": "test",
         "test2": "test"
       }
