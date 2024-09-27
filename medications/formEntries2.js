@@ -54,7 +54,7 @@
 "title": "jakinhibitors",
  "options": ["no", "yes"]
 },
- { 
+{ 
 "title": "S1Pmodulators",
  "options": ["no", "yes"]
 },
