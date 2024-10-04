@@ -1,3 +1,3 @@
 **J pouch (IPAA)**
 
-This surgery does not affect fertility. However, removal of the rectum and creation of the J-pouch can reduce fertility IF the fallopian tubes are damaged during surgery OR if adhesions (scar tissue) forms after the surgery. Unfortunately, often there is no way to predict this will happen. Therefore, if you require this surgery or have had this surgery, please discuss with your surgeon and gynecologist/obstetrician regarding your plans to become pregnant. 
+A J pouch usually involves two to three operations, including removal of the rectum and colon. The surgery to remove the rectum can reduce fertility. Therefore, the timing of the stages to create a J pouch is important to discuss with your specialists. If you have had this surgery, and are having troubles conceiving, please contact your specialists regarding options for fertility therapy including invitro fertilisation (IVF).
