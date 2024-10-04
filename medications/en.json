@@ -287,9 +287,9 @@
         "preconception": {
           "medications": "Methotrexate can be harmful in pregnancy causing embryo malformation and fetal death. Discontinue use at least 3 months prior to trying to conceive (women and men)."
         },
-        "breastfeeding": "Most experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "Experts recommend not to breastfeed while on Methotrexate. If a decision is made to breastfeed, it is recommended to withhold breastfeeding for 24 hours after a weekly dose. Monitoring of the infant's blood count (CBC) could be considered.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
+        "infections": "No increased risk for infection in baby"
       },
        "immunomodulatorallopurinol": {
         "pregnant": {
