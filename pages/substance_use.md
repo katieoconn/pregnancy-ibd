@@ -19,7 +19,7 @@ Australian Resources:
 
  
 
-**SMOKING**
+**SMOKING (Vaping)**
 
 Smoking can reduce fertility, and increase the risk of miscarriage, stillbirth, preterm premature rupture of membranes, low birth weight, placental abruption/previa, preterm birth, and sudden infant death syndrome. One of the harms associated with smoking during pregnancy in the general population is a significant reduction in baby’s birthweight. This has also been shown specifically within an IBD population (with a 274 grams reduction shown in a Danish population). 
 
