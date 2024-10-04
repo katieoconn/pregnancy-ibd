@@ -366,7 +366,7 @@
           "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib and standard doses of upadacitinib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised unless there are no other medication options to control your IBD. Stopping tofacitinib and updacitinib at least 4 weeks and filgotinib at least 1 week prior to conception is advised, however it is also important that a switch to a different medication has occurred and remission has been obtained."
         },
         "breastfeeding": "JAK inhibitors are detectable in breastmilk. Breastfeeding is not advised if you are prescribed a JAK inhibitor.",
-        "vaccinations": "CAUTION - Babies exposed to JAK inhibitors in utero should NOT receive LIVE vaccines for the first 1 month of life. Inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live)",
+        "vaccinations": "Babies exposed to JAK inhibitors in utero should NOT receive LIVE vaccines for the first 1 month of life. Inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live)",
         "infections": "No increased risk for infection in baby."
       },
         "jakinhibitorsyes": {
