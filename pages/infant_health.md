@@ -10,14 +10,15 @@ Unlike other medications, biologics are antibodies. Just like the antibodies a m
 
 The biologic can start actively crossing the placenta from the second trimester in pregnancy with the majority of the transfer occurring in the third trimester. As a result, your baby may be born with the biologic detectable in their blood.
 
-Similar recommendations have been made for all groups of biologics based on the information currently available. However, the anti-TNF group of biologics has been used in IBD for longer than other groups and as a result, there is more information available regarding the use of anti-TNFs in pregnancy and breastfeeding.  
-
 **Vaccinations:**
 
 The medications a mother takes during pregnancy may affect whether or not the baby can receive certain vaccinations. While we recommend that decisions regarding medication choices in pregnancy are made independently to the effects on infant vaccination safety, knowledge regarding safe vaccination practices is important. 
 
-If exposed to a biologic in pregnancy, your infant cannot receive live vaccines for the 12 months of life. If a baby has rotavirus associated diarrhea, parents need to take precautions when doing diaper/nappy changes, in particular thoroughly washing hands with soap and water following the change. 
+If exposed to a biologic in pregnancy, your infant cannot receive live vaccines for the first 6 months of life. An exception is rotavirus vaccine, which can be given according to the local schedule. If a baby has rotavirus vaccine associated diarrhoea, parents need to take precautions when doing diaper/nappy changes, in particular thoroughly washing hands with soap and water following the change. The medications a mother takes during pregnancy may affect whether or not the baby can receive certain vaccinations. There are inactive and live vaccines; live vaccines contain a weak version of the actual virus. Regardless of which medication the baby was exposed to during pregnancy, inactive vaccines can be given according to the schedule.
 
+If exposed to small molecules in pregnancy, your infant cannot receive live vaccines for the first one week of life.
+
+Please discuss the decisions regarding vaccinations for your infant with your infant provider. 
 
 Further information regarding vaccination information relevant for your listed IBD medications are shown below. 
 
@@ -38,15 +39,13 @@ https://raisingchildren.net.au/guides/a-z-health-reference/immunisation
 
 Safety data is reassuring for biologic use in pregnancy. 
 
-It is important to note that there is only limited experience with the newer biologics such as ustekinumab and vedolizumab. 
-
 
 Further information regarding infection risk for your listed IBD medications are shown below.
 
 ## **Breastfeeding**
 Some women may be in a position to breastfeed. Breastfeeding a baby will help support the health of your child today and in the future. There is also evidence that babies who are fed only breastmilk for the first six months of life will have a lower risk of developing ear infections, respiratory illnesses and diarrhoea. They are also less likely to have lifelong conditions like allergies and asthma. 
 
-Women who are taking medication to manage IBD while they are breastfeeding are often concerned that the medication may harm their babies. In most cases, the concentration of medicine that passes through to the breastmilk is very small and women should feel comfortable continuing to take IBD medications while breastfeeding with the exception of methotrexate. 
+Women who are taking medication to manage IBD while they are breastfeeding are often concerned that the medication may harm their babies. In most cases, the concentration of medicine that passes through to the breastmilk is very small and women should feel comfortable continuing to take IBD medications while breastfeeding with the exception of methotrexate, Jak inhibitors and S1P modulators. 
 
 Information specific your listed medications is provided below.
 
@@ -58,4 +57,4 @@ https://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm
 
 Some women choose not to breastfeed, or may not be able to breastfeed for a variety of reasons (insufficient milk supply, health condition, etc.). Women with IBD should discuss their options with their healthcare team. 
 
-<h5>Information last updated July 23, 2021.</h5>
+<h5>Information last updated October 4, 2024.</h5>
