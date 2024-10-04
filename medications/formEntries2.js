@@ -75,6 +75,6 @@
 "options": ["no", "yes"]
 },
 {
-"title": "IL-23 inhibitors",
+"title": "Il23inhibitors",
 "options": ["no", "yes"]
 }]
