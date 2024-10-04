@@ -360,25 +360,25 @@
       },
         "jakinhibitors": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib and standard doses of upadacitinib or filgotinib have shown harm to the foetus, therefore use in pregnancy (especially the first trimester) is currently not advised unless there are no other medication options to control your IBD. Contact your gastroenterologist if you become pregnant while on a JAK inhibitor."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib and standard doses of upadacitinib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised unless there are no other medication options to control your IBD. Stopping tofacitinib and updacitinib at least 4 weeks and filgotinib at least 1 week prior to conception is advised, however it is also important that a switch to a different medication has occurred and remission has been obtained."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "JAK inhibitors are detectable in breastmilk. Breastfeeding is not advised if you are prescribed a JAK inhibitor.",
+        "vaccinations": "CAUTION - Babies exposed to JAK inhibitors in utero should NOT receive LIVE vaccines for the first 1 month of life. Inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live)",
+        "infections": "No increased risk for infection in baby."
       },
         "jakinhibitorsyes": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. If you become pregnant while on tofacinitib, please contact your Gastroenterologist."
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib and standard doses of upadacitinib or filgotinib have shown harm to the foetus, therefore use in pregnancy (especially the first trimester) is currently not advised unless there are no other medication options to control your IBD. Contact your gastroenterologist if you become pregnant while on a JAK inhibitor."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib have shown harm to the foetus, therefore use in pregnancy is currently not advised. "
+          "medications": "There was limited information available at the time this resource was created. However, animal studies using very high doses of tofacinitib and standard doses of upadacitinib have shown harm to the foetus, therefore use when trying to conceive and in pregnancy is currently not advised unless there are no other medication options to control your IBD. Stopping tofacitinib and updacitinib at least 4 weeks and filgotinib at least 1 week prior to conception is advised, however it is also important that a switch to a different medication has occurred and remission has been obtained."
         },
-        "breastfeeding": "No information is available on the clinical use of tofacitinib during breastfeeding.",
-        "vaccinations": "Insufficent information is available at the time this resource was created to advise.",
-        "infections": "There was minimal information available at the time this resource was created."
+        "breastfeeding": "JAK inhibitors are detectable in breastmilk. Breastfeeding is not advised if you are prescribed a JAK inhibitor.",
+        "vaccinations": "CAUTION - Babies exposed to JAK inhibitors in utero should NOT receive LIVE vaccines for the first 1 month of life. Inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live)",
+        "infections": "No increased risk for infection in baby."
       },
       "calcineurinInhibitorcyclosporin": {
         "pregnant": {
@@ -393,14 +393,14 @@
       },
       "antibioticsciprofloxacin": {
         "pregnant": {
-          "medications": "Very small risk of tendon damage with ciprofloxacin if used in first trimester"
+          "medications": "Very small risk of tendon damage with ciprofloxacin if used in first trimester."
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "Delay feeding 3-4 h after dose",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "Delay feeding 3-4 h after dose.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "No increased risk for infection in baby."
       },
        "antibioticsmetronidazole": {
         "pregnant": {
@@ -437,7 +437,7 @@
       },
       "cyclosporinyes": {
         "pregnant": {
-          "medications": "Pregnant - None"
+          "medications": "If there are no other medical alterantives, use of cyclosporin with careful monitoring can be considered."
         },
         "preconception": {
           "medications": "No known concerns."
@@ -448,36 +448,36 @@
       },
       "ciprofloxacinyes": {
         "pregnant": {
-          "medications": "Very small risk of tendon damage with ciprofloxacin if used in first trimester"
+          "medications": "Very small risk of tendon damage with ciprofloxacin if used in first trimester."
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "Delay feeding 3-4 h after dose",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "Delay feeding 3-4 h after dose.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "No increased risk for infection in baby."
       },
        "metronidazoleyes": {
         "pregnant": {
-          "medications": "Pregnant - None"
+          "medications": "No known concerns."
         },
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "No known concerns.",
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "No increased risk for infection in baby."
       },
       "penicillinyes": {
         "pregnant": {
-          "medications": "Pregnant - None"
+          "medications": "No known concerns."
         },
         "preconception": {
           "medications": "No known concerns."
         },
         "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "vaccinations": "Baby can receive standard live and inactive vaccines.",
+        "infections": "No increased risk for infection in baby."
       },
       "vancomycinyes": {
         "pregnant": {
