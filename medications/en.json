@@ -331,9 +331,9 @@
         "preconception": {
           "medications": "There are no known concerns regarding fertility and conceiving while on an anti-TNF"
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 6 to 9 months of life. All other non-live vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live) Very little anti-TNF medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
-        "infections": "Infections - None"
+        "breastfeeding": "Safe in breastfeeding",
+        "vaccinations": "Babies exposed to anti-TNF in utero should NOT receive LIVE vaccines for the first 6 months of life excluding rotavirus vaccine. Rotavirus and inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live) Very little anti-TNF medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
+        "infections": "No increased risk for infection in baby"
       },
       "vedolizumabyes": {
        "pregnant": {
