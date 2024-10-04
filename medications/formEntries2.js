@@ -73,4 +73,8 @@
 {
 "title": "s1pmodulators",
 "options": ["no", "yes"]
+},
+{
+"title": "IL-23 inhibitors",
+"options": ["no", "yes"]
 }]
