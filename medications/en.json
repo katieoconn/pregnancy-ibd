@@ -82,9 +82,9 @@
         "thiopurinesIncluding": "THIOPURINES including 6-mercaptopurine (Purinethol®) and Azathioprine (Imuran®)",
         "biologics": "Biologics",
         "antiTnfs": "Anti TNF: Infliximab (Remicade®, Inflectra®, Remsima®, Avsola®, other infliximab biosimilar), Humira®(Adalimumab), Simponi® (Golimumab)",
-        "vedolizumab": "Entyvio® (Vedolizumab)",
-        "ustekinumab": "Stelara® (Ustekinumab)",
-        "jakinhibitors": "Jak Inhibitors (Tofacitinib (Xeljanz®), Upadacitinib, Filgotinib)",
+        "vedolizumab": "Anti-Integrin: Entyvio® (Vedolizumab)",
+        "ustekinumab": "Anti IL12/23: Stelara® (Ustekinumab)",
+        "jakinhibitors": "Jak Inhibitors: Tofacitinib (Xeljanz®), Upadacitinib, Filgotinib",
         "antibiotics": "Antibiotics",
         "ciprofloxacin": "Ciprofloxacin",
         "metronidazole": "Metronidazole",
@@ -101,8 +101,8 @@
         "hydrocortisone": "Hydrocortisone",
         "budesonide": "Budesonide",
         "intravenous": "Intravenous, including Methylprednisolone and Hydrocortisone",
-        "s1pmodulators": "S1-P modulators (Estrasimod, Ozanimod)",
-        "Il23inhibitors": "IL-23 inhibitors (Risankizumab (Skyrizi), Mirikizumab (Omvoh))",
+        "s1pmodulators": "S1-P modulators: Estrasimod, Ozanimod",
+        "Il23inhibitors": "IL-23 inhibitors: Risankizumab (Skyrizi), Mirikizumab (Omvoh)",
         "test": "test",
         "test2": "test"
       }
