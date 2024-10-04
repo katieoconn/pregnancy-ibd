@@ -1,3 +1,3 @@
 **Colectomy**
 
-A colectomy does not affect fertility. However, removal of the rectum can reduce fertility IF the fallopian tubes are damaged during surgery OR if adhesions (scar tissue) forms after the surgery. Unfortunately, often there is no way to predict this will happen. Therefore, if you require this surgery or have had this surgery, please discuss with your surgeon and gynecologist/obstetrician regarding your plans to become pregnant.
+A sub-total or partial colectomy does not affect fertility however if the rectum is removed (referred to as proctectomy) this can reduce fertility. Therefore, if you require removal of the rectum, please discuss potential impact on fertility with your specialists. If you have had this surgery, and are having troubles conceiving, please contact your specialists regarding options for fertility therapy specifically in vitro fertilisation (IVF).
