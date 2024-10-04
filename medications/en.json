@@ -348,14 +348,14 @@
       },
       "ustekinumabyes": {
         "pregnant": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available from the use in IBD and other conditions such as psoriasis and psoriatic arthritis, no concerns have been identified."
+          "medications": "Anti-IL 12/23 are considered safe to use throughout pregnancy."
         },
         "preconception": {
-          "medications": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs."
+          "medications": "There are no known concerns regarding fertility and conceiving while on an anti-IL12/23."
         },
-        "breastfeeding": "There was limited information available at the time this resource was created. However, from what is available, no new concerns have been identified when compared with anti-TNFs.",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "Safe in breastfeeding.",
+        "vaccinations": "Babies exposed to anti-IL12/23 in utero should NOT receive LIVE vaccines for the first 6 months of life excluding rotavirus vaccine. Rotavirus and inactive vaccines are safe to give from birth. (Note – majority of infant vaccines are non-live) Very little anti-IL12/23 medication is secreted into breast milk and, even if it is present, it is considered unlikely to cause harm.",
+        "infections": "No increased risk for infection in baby."
       },
         "jakinhibitors": {
         "pregnant": {
