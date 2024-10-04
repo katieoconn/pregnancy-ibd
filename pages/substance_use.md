@@ -53,7 +53,7 @@ Australian Resources:
 
 1.https://www.telethonkids.org.au/news--events/news-and-events-nav/2019/june/pregnant-women-urged-to-avoid-e-cigarettes/ 
 
-**RECREATIONAL DRUGS** 
+**Marijuana** 
 
 All recreational drugs can be dangerous in pregnancy, however it is important to not stop taking any drugs without help from your doctor. 
 
@@ -61,7 +61,13 @@ Canadian Resources:
 
 Marijuana 
 
+https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/health-effects.html
+
 https://www.acog.org/Clinical-Guidance-and-Publications/Committee-Opinions/Committee-on-Obstetric-Practice/Marijuana-Use-During-Pregnancy-and-Lactation 
+
+**Other Substances** 
+
+All recreational drugs can be dangerous in pregnancy, however it is important to not stop taking any drugs without help from your doctor. 
 
 Australian Resources: 
 
@@ -70,4 +76,4 @@ https://www.thewomens.org.au/health-information/pregnancy-and-birth/pregnancy-dr
  
 
 
-<h5>Information last updated May 25, 2021.</h5>
+<h5>Information last updated October 4, 2024.</h5>
