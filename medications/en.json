@@ -310,8 +310,8 @@
           "medications": "Note allopurinol is not an immunosuppressant however may be used to help the action of azathioprine or 6MP. There is conflicting information surrounding the safety of use of allopurinol in pregnancy, with some studies suggesting safety and others reporting fetal harm. Accordingly, while safety of use in pregnancy cannot be reassured, it is suggested you discuss with your gastroenterologist potentially revising the use of allopurinol prior to becoming pregnant."
         },
         "breastfeeding": "Exclusively breastfed infants should be monitored, including observation for allergic reactions (such as rash) and periodic blood count (CBC).",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "vaccinations": "Baby can receive standard live and inactive vaccines",
+        "infections": "No increased risk for infection in baby"
       },
         "thiopurinesIncludingyes": {
         "pregnant": {
