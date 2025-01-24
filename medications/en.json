@@ -442,9 +442,9 @@
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "Breastfeeding - None",
-        "vaccinations": "Vaccinations - None",
-        "infections": "Infections - None"
+        "breastfeeding": "No known concerns",
+        "vaccinations": "No known concerns",
+        "infections": "No known concerns"
       },
       "ciprofloxacinyes": {
         "pregnant": {
@@ -475,7 +475,7 @@
         "preconception": {
           "medications": "No known concerns."
         },
-        "breastfeeding": "Breastfeeding - None",
+        "breastfeeding": "No known concerns",
         "vaccinations": "Baby can receive standard live and inactive vaccines.",
         "infections": "No increased risk for infection in baby."
       },
