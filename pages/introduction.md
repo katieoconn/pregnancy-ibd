@@ -17,6 +17,6 @@ The following sources of financial support have been received for myPIDA:
 Women and Children's Health Research Institute (WCHRI) Clinical/Community Research Integration Support Program (CRISP); Merck Better Care, Healthy Communities Funding Program; Gastroenterological Society of Australia Rose Amarant Grant
 
 
-<h5>Information last updated July 2021.</h5>
+<h5>Information last January 24, 2025 .</h5>
 
 
