@@ -50,9 +50,17 @@
 "title": "vedolizumab",
  "options": ["no", "yes"]
 },
-{ 
+{
+"title": "Il23inhibitors",
+"options": ["no", "yes"]
+},
+ { 
 "title": "jakinhibitors",
  "options": ["no", "yes"]
+},
+{
+"title": "s1pmodulators",
+"options": ["no", "yes"]
 },
 { 
 "title": "cyclosporin",
@@ -69,12 +77,4 @@
 { 
 "title": "penicillin",
  "options": ["no", "yes"]
-},
-{
-"title": "s1pmodulators",
-"options": ["no", "yes"]
-},
-{
-"title": "Il23inhibitors",
-"options": ["no", "yes"]
 }]
