@@ -15,4 +15,5 @@ https://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm
 
 Some women choose not to breastfeed, or may not be able to breastfeed for a variety of reasons (insufficient milk supply, health condition, etc.). Women with IBD should discuss their options with their healthcare team. 
 
-<h5>Information last updated July 23, 2021.</h5>
+<h5>Information last January 24, 2025 .</h5>
+
