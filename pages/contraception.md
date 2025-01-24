@@ -8,4 +8,5 @@ The following table outlines existing concerns regarding different methods of co
 
 ![enter image description here](https://github.com/tactica/pregnancy-ibd/blob/master/images/contraception.png?raw=true)
 
-<h5>Information last updated September 9, 2019.</h5> 
+<h5>Information last January 24, 2025 .</h5>
+
