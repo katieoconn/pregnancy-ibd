@@ -45,4 +45,4 @@ Further information regarding infection risk for your listed IBD medications are
 
 
 
-<h5>Information last updated July 23, 2021.</h5>
+<h5>Information last January 24, 2025 .</h5>
