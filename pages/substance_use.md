@@ -59,11 +59,15 @@ All recreational drugs can be dangerous in pregnancy, however it is important to
 
 Canadian Resources: 
 
-Marijuana 
-
 https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/health-effects.html
 
 https://www.acog.org/Clinical-Guidance-and-Publications/Committee-Opinions/Committee-on-Obstetric-Practice/Marijuana-Use-During-Pregnancy-and-Lactation 
+
+https://www.pregnancyinfo.ca/learn-more/
+
+Australian Resources: 
+
+https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Cannabis-2021.pdf
 
 **Other Substances** 
 
