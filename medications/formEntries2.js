@@ -46,13 +46,13 @@
 "title": "ustekinumab",
  "options": ["no", "yes"]
 },
+ {
+"title": "Il23inhibitors",
+"options": ["no", "yes"]
+},
 { 
 "title": "vedolizumab",
  "options": ["no", "yes"]
-},
-{
-"title": "Il23inhibitors",
-"options": ["no", "yes"]
 },
  { 
 "title": "jakinhibitors",
