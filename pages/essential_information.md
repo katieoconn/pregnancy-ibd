@@ -20,5 +20,5 @@ CT or MRI
 Be sure to advise the doctor or technician if you are trying to conceive or may be pregnant, as these tests may need to be delayed or modified
 
 
-<h5>Information last January 24, 2025 .</h5>
+<h5>Information last updated January 24, 2025 .</h5>
 
