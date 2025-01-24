@@ -74,4 +74,5 @@ Australian Resources:
 [https://ranzcog.edu.au/womens-health/patient-information-resources/exercise-during-pregnancy](https://ranzcog.edu.au/womens-health/patient-information-resources/exercise-during-pregnancy)
 
 
+<h5>Information last January 24, 2025 .</h5>
 
