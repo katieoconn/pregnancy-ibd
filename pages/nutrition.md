@@ -36,7 +36,7 @@ Canadian Resources:
 
 Australian Resources:
 
-1. [(https://www.eatforhealth.gov.au/eating-well/healthy-eating-throughout-all-life/healthy-eating-when-you're-pregnant-or-breastfeeding)](https://www.eatforhealth.gov.au/eating-well/healthy-eating-throughout-all-life/healthy-eating-when-you're-pregnant-or-breastfeeding)
+1. [https://www.eatforhealth.gov.au/eating-well/healthy-eating-throughout-all-life/healthy-eating-when-you're-pregnant-or-breastfeeding](https://www.eatforhealth.gov.au/eating-well/healthy-eating-throughout-all-life/healthy-eating-when-you're-pregnant-or-breastfeeding)
 
 
 ## Physical Activity and Exercise
