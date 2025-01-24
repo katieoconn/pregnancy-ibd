@@ -36,7 +36,7 @@ Canadian Resources:
 
 Australian Resources:
 
-1. [https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity](https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity)
+1. [[https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity](https://www.health.gov.au/resources/pregnancy-care-guidelines/part-c-lifestyle-considerations/nutrition-and-physical-activity)
 
 
 ## Physical Activity and Exercise
