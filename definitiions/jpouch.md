@@ -6,4 +6,4 @@ ileostomy) although sometimes it is done in 3 stages (colectomy with end ileosto
 rectal stump is left inside; removal of rectal stump, creation of J-pouch and a diverting
 ileostomy; reversal of diverting ileostomy).
 
-<h5>Information last updated October 25, 2018.</h5>
+<h5>Information last updated March 25, 2025 .</h5>
