@@ -6,7 +6,7 @@ Please speak to your family physician, gastroenterologist or gynecologist regard
 
 The following table outlines existing concerns regarding different methods of contraception in IBD. Such concerns though are based on limited available information.
 
-![enter image description here](https://github.com/tactica/pregnancy-ibd/blob/master/images/contraception.png?raw=true)
+![enter image description here](https://github.com/katieoconn/pregnancy-ibd/blob/master/images/Contraception.PNG?raw=true)
 
 <h5>Information last updated January 24, 2025 .</h5>
 
