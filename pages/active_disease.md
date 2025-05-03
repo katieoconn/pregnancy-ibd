@@ -22,7 +22,7 @@ Infants born prematurely have difficulty with breathing, temperature regulation 
 * 3 of every 100 births (in women with **inactive IBD**) vs. 10 of every 100 births (in women with **active IBD**)<sup>1</sup>
 ![enter image description here](https://github.com/tactica/pregnancy-ibd/blob/master/images/lbw.PNG?raw=true)
 
-Women with active IBD in pregnancy can have up to 4 times the risk of having an infant with low birth weight, compared to women with inactive IBD in pregnancy.
+Women with active IBD in pregnancy can have up to 4 times the risk of having an infant with low birth weight, compared to women with inactive IBD in pregnancy.<sup>3</sup>
 Low birth weight can be associated with cognitive and developmental disorders.<sup>1</sup>
 
 **Loss of pregnancy** (miscarriage or spontaneous abortion) estimated to occur in:
@@ -35,7 +35,7 @@ Low birth weight can be associated with cognitive and developmental disorders.<s
 * IBD in general does not increase the likelihood of congenital malformations. 
 
 ## **Will Pregnancy Affect my IBD?**
-Women with IBD who have active disease in the 6 months preconception may have up to 5 fold increased risk of active disease during pregnancy.
+Women with IBD who have active disease in the 6 months preconception may have up to 5 fold increased risk of active disease during pregnancy.<sup>4</sup>
 
 Of women who have active disease at the time of conception, two in three are likely to have active disease, and one in three are likely to go into remission.   
 
