@@ -1,2 +1,4 @@
 1. Kammerlander, Heidi, et al. The Effect of Disease Activity on Birth Outcomes in a Nationwide Cohort of Women with Moderate to Severe Inflammatory Bowel Disease. *Inflammatory Bowel Diseases*, 2017; 23(6): 1011-1018
 2. Ujihara, Masaki, et al. Importance of appropriate pharmaceutical management in pregnant women with ulcerative colitis. *BMC Research Notes*, 2013; 6(1): 210
+3. Kim MA, Kim YH, Chun J, et al. The Influence of Disease Activity on Pregnancy Outcomes in Women With Inflammatory Bowel Disease: A Systematic Review and Meta-Analysis. J Crohns Colitis. May 4 2021;15(5):719-732. doi:10.1093/ecco-jcc/jjaa225
+4. Vestergaard T, Julsgaard M, Røsok JF, et al. Predictors of disease activity during pregnancy in women with inflammatory bowel disease—A Danish cohort study. Alimentary Pharmacology & Therapeutics. 2023;57(3):335-344.
